@@ -169,7 +169,7 @@ Act 2.4: Archery Contest
 
 Act 3: Decisions
 
-    
+    The Party must pick a guild after being approached by various Guildmasters/Quartermasters
 
 
     Music:
@@ -182,3 +182,212 @@ Act 3: Decisions
 
         Requirements: 
             - Party must pick An adventurers Guild
+
+
+Act 4.1: DragonWatch Chosen
+    
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 4.2: GoldFell Chosen
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 4.3: Midnight Sun
+
+    
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 5: Rewards
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 5.1: Serafia [Scrolls] 
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 6: To Teakwood 
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 7: Teakwood Village 
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 8: Teakwood Chapel
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 9: Vampires!
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+Act 10: Return to Godfell
+
+    Music:
+        -
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Requirements: 
+            - 
+
+        DC - :
+            -
+
+        Rewards:
+            - 
+
+
+END OF DAY 1
+
+
+
+

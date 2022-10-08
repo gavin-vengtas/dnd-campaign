@@ -1,0 +1,32 @@
+Music:
+    -
+
+
+Map:
+    -
+
+
+Description:
+
+    test
+
+
+NPCs:
+
+    Day 1:
+        - 
+        
+    Day 2:
+        - 
+
+
+Main Quests:
+
+    Day 1:
+        - Act 2.1: Drinking Contest
+
+
+Side Quests:
+
+    Day 1:
+        -
