@@ -469,8 +469,8 @@ Act 9: Vampires!
     The sound of wind and branches wearing down the chapel drowns out as the party decends deeper into the chapel dungeon,
     the smell of corpses now replaced with a faint smell of iron, or perhaps blood, and dust. 
 
-    The party finally reaches the bottom of the stair well. As they enter the next room, they hear the sudden sound of heavy
-    iron slamming against the concrete floor, barring the doorway behind them.
+    The party finally reaches the bottom of the stair well. As they enter the next room. It is completely dark, with several unlit sconces on the walls nearby.
+    they hear the sudden sound of heavy iron slamming against the concrete floor, barring the doorway behind them.
 
     Malfeasonce and John Oath broken sense a great evil emanating within the room, the feeling that something terrible is about
     to happen has suddenly dawned on them.
@@ -486,7 +486,7 @@ Act 9: Vampires!
         Encounter:
             Vampire Spawn:
                 Following the slamming of the iron gates, barring the adventurers, the Vampire Spawn violently forces off the lid of her coffin.
-                the lid flys through the air in a high arc before slamming into the ground, nearly splitting in two.the Vampire Spawn turns to look at
+                the lid flys through the air in a high arc before slamming into the ground, nearly splitting in two. The Vampire Spawn turns to look at
                 the destroyed lid, half in surprise and half annoyed about the piece of her bedding being destroyed.
 
                 (in a raspy voice) "... ehh... it seems that my recent feedings has left me stronger than i can remember", she turns to face the party and smiles a toothy grin.
@@ -509,7 +509,26 @@ Act 9: Vampires!
 
         Dialog: After the encounter
             Raya:
-                - 
+                - As our adventurers take their final mortal breaths, a faint sound can be heard in the distance, a whisper just beyond the iron gates, and then the building of a hissing sound.
+                    the air surrounding the gate begins to shimmer, as a road does in the distance on a hot summers day. Then it starts to glow, first a deep red hue, then brighter, orange, then
+                    yellow. until the gate itself began to melt and molten iron seeped down into the cracks in the floors, followed by the caustic smell of noxious gasses. As everything settled, a hooded
+                    figure with a silver tail walked confidently into the room.
+
+                    The vampire smiles as his victims blood curdles and bubbles on his shark-like teeth around the edges of his lips, "Ah another adventurer sent by Dextra for me to play vith? You seem more capable than your
+                    predecessors". The figure threw back its hood, revealing itself to be what looked like Raya, of the DragonWatch Guild. She smiles. Peeling back her lips to reveal her dragon-like teeth 
+                    and then, Before the vampire could react, She pulls out a scroll and whispers a few words.
+
+                    the air around the vampire begins to warp and pull, almost as if space was tearing itself apart at the seems. Suddenly a doorway appeared around the vampire, seemingly
+                    leading to nowhere. inside looked like thousands of shooting stars zipping by nearly faster than the eye can see followed with the flashing of all colors of the rainbow, 
+                    all of it being pulled to the center of the impossible doorway. it crept on him. Enveloped him. he clawed and scraped on the ground in an effort to keep from being pulled into the vaccuum.
+                    but he could not fight the magnitude of the forces that worked against him, and succumbed to it. The doorways suddenly blinks shut, and the vampire is gone.
+
+                    Raya approaches the downed party, and heals/resurrects them. She takes out a few scrolls and speaks some words near the bodies of the fallen party members, as she approaches Vollert,
+                    she whispers into his ear, "This one is from Serafia, shes taken quite the liking to you". She then turns to the party, the once Confident Dragonborn women now seemed rather flustered
+                    almost shy, "Well, uhm, I know you all must be terribly exhausted after that...", she turns to look at the corpse of the vampire spawn, "...Ordeal, but we must leave this place post haste. The uh
+                    Vampire will be back soon, I wont be able to stop him this time, all the scrolls that Vilsara bought are finished... We must go back to DragonWatch, There are great forces at play that
+                    tried to make sure that you all would not survive this night. Come!"
+
 
         Rewards:
             - underworld medallion (reduces damage taken from undead by 1d4-1,  minimum 1)
@@ -517,6 +536,21 @@ Act 9: Vampires!
 
 
 Act 10: Return to Godfell
+
+    the sky shines a purple-red hue as sunrise breaks the horizons overlooking the village of teakwood, 5 unlikely adventurers ventured into the chapel at midnight.
+    Now 6 return, a surprised coach looks on as the adventurers all approach him, now looking far more battered and bruised than when they first arrived.
+
+    Dialog:
+        Coach:
+            - (In utter surprise), "Well I'll be, In all my months of bringing sorry adventurers to this god forsaken place, i aint never seen a whole group return, much less with 1 extra!",
+                the coaches eyes narrowed then widened as he recognised the hooded Dragonborn woman approaching, "L-Lady Raya!?", the coach pulled off his hat and wrung it in is hands before clutching
+                it against his chest, "Ma'am i can explai~", before finishing his sentence, Raya had briskly walked up to the coach and swiftly slapped him accross the face, sending his hat flying into the
+                bushes, "Len, You will not speak another word. you will get back on your cart and take us back to DragonFell, or you can count on the seven heavens that your wife will hear about this before Vilsara does.
+                Nod If you understand me.". Tearing up, The coach nods in compliance and boards the carriage, awaiting his passengers.
+
+        Raya:
+            - (Nervously) "Well im sure you all have...", She looks around, trying not to make eye contact with anyone, "...Questions. I'll try to answer some of them the best i can on the ride back 
+            to GodFell."
 
     Music:
         -
