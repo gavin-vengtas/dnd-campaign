@@ -226,28 +226,75 @@ Act 4.2: GoldFell Chosen
 
 Act 4.3: Midnight Sun
 
-    
+    Crowds cheer and make merryment in the distance as our adventurers approach the the dark guild of the midnight sun.
+    As you get closer, it almost appear to get darker, the air takes on an ominous mist and the party can almost sense
+    the movement of guild members in the shadows surrounding the path to the guild. You arrive outside the guild doors.
+
+    Dialog:
+        Oliver:
+            - (Nervously) "Well... Here we are then... I beg you pardon sirs, but ol' Sen always
+                told me never to go anywhere near this place, says the guild is home to cut throats and defends the worst that 
+                GodFell has to offer... And ever since Aria Disappeared, I...", He stops midsentence, "I'll wait out here Sirs,  Im known around town, I'll be safe." 
+            
+            DC - persuasion/Intimidation: 2 chances
+
+                15 - He bursts into tears, "Aria, my best friend, she dissappeared 2 years ago... Arla and Sek went to question Dextra but then they disappeared too...
+                    Please sirs, Dont Go! surely theirs another guild...". He becomes almost incromprhensible through the sobbing.
+        
+
 
     Music:
         -
 
     Map:
-        -
+        -   AdventurGuilds_Edited.jpg
 
     Act Milestones:
 
         Requirements: 
-            - 
+            - Complete Dialog with Dextra
 
-        DC - :
-            -
+        Dialog:
+            Dextra: 
+                - (Smiles Expectantly, Confident) "Welcome adventurers, to Midnight Sun. The moment I layed eyes 
+                    on all of you, I knew that we had gained a new set of champions for our ranks. You have outmatched your
+                    adversaries on nearly all fronts in terms of skill, well done.". She bows, then looks up with narrowed eyes,
+                    "but the challenge is not yet complete. Before I can admit you to Midnight Sun, I must first know your skills in combat.".
 
-        Rewards:
-            - 
+                    She goes on to describe the nearby town of Teakwood, which was plagued by undead many years ago. 
+                    Recently the guild had cleared out many monsters from the town save a few that have been barred within the towns old Chapel.
+                    Your mission is to leave for the town of GodFell and exterminate the remaining monsters before they escape and wreak havoc
+                    on the festival patrons. 
+
+                    Dextra has arranged for a coach to take the party to teakwood, he is waiting outside the city when you are ready.
+                
+
+                DC - persuasion:
+                    10 - she gives the adventurers a respite.
+
+                    Rewards:
+                        - Servant appraches and gives out mead that cures exhaustion, restores stats and spell slots.
 
 
 Act 5: Rewards
 
+    Crowds still cheer in the distance as the first night of Necros begins, The cool air has thickened with mist outside the guild hall 
+    of the midnight sun. Through the mist, a short stocky figure rushes over to the party, whom you all recognise to be mayor WindFell.
+
+    Dialog:
+        Mayor WindFell:
+            - (Excitedly approaches the party) "There yee are! i've been lookin round town for yee lot! yee firgot to taek yee prizes!"
+                the mayor appraches each member and hands them a prize of 2 gp and a coupon for a scroll from Serafias Scroll Emporium.
+
+                "Ah, i can see by the look in yer eyes that Dextra has yee on a quest already, common place for har new recruits...", the mayor strokes his beard in contemplation...
+                "Be careful with these 'uns lads, bad luck follows new members of Midnight Sun", He leans in and whispers: "But yee did no hear tha' from me", and leans back.
+                "Well, in any case, most of tha shops 'round 'ere are near closed, aye? But i suggest yee stop by Serafias fer yee prizes, she be waitin for ya,
+                yee never know when a spell scroll will come in 'andy eh? and while your there, maybe stop by Aldis for some Gear 'fore yee set out". The Mayor stares at Malfeasonce and Galateia,
+                "Might I suggest visiting Selkor for your spell materials, He be open still for the festivities, but not for long. Well then, theres much still i must see to..." He runs off..
+
+        Oliver:
+            - (Excitedly appraches) "Wow! You have a mission already? I overheard the mayor, shall I show you to Serafias?" 
+
     Music:
         -
 
@@ -257,37 +304,74 @@ Act 5: Rewards
     Act Milestones:
 
         Requirements: 
-            - 
-
-        DC - :
-            -
+            - Party wins the majority of contests
 
         Rewards:
-            - 
+            - 2 gp per party member and a scroll coupon (redeemable for 1 magic scroll)
 
 
 Act 5.1: Serafia [Scrolls] 
 
+    Back on the City gate bridge, the mood grows warm and merry as crowds of festival goers of all races and sizes partake in the festivities on the 
+    first night of Necros. Children (and some adults), run back and forth eagerly collecting sweets and confectionaries from locals and other particapants for
+    their outfits reflecting the ominous but fun nature of Necros. On one side of the bridge, a group of wizard entertainers weave intricate symbols as reality around them seems to bend
+    and form and take shape into fantastic miniature dragons, beholders and aboleths having mighty battles above the crowds. many onlookers cheer and throw in plenty of silver and gold pieces
+    for the wizards' performance. On the other side, a lone halfling bard and his band seem to be performing a few songs and gathering quite a crowd.
+
+    Dialog:
+        Oliver:
+            - (Happily) "Here we are then, Serafias wonderous scroll Emporium... Serafia dont allow me inside no more, not since Aria blew up the bridge a few years ago...",
+            He chuckles, then goes silent.
+
     Music:
-        -
+        -   
 
     Map:
         -
 
     Act Milestones:
 
-        Requirements: 
-            - 
+        Dialog:
+            Serafia:
+                - (Curiously) "Who goes there? a little late for a group of adventurers to be stepping in, youll have to come in tomorrow...", She looks up, and takes a good
+                long look at the party. "Ah! your the lot that won todays contests, I watched the contest of strength and Wit you know?", the old women pats Vollert on the shoulder
+                nostalgicly, "You remind me of my late Felkis... He could never hold in his mead but boy could he rise to the occasion when the gods expected it.", shes stares off 
+                as if remembering an old event long ago. 
 
-        DC - :
-            -
+                "Ah! and you must tell me, have you all decided on a guild?", she listens eagerly and looks she dissappointed to hear about Midnight Sun. "Ah, I see Dextra has sunk her ageless
+                claws into you... You know, most of the Scrolls here ive bought from her guild, the ones not covered in blood or other illicit liquids anyway... such a shame, Raya and Vilsara could 
+                use new recruits. Cant say i blame you eh?, if Rodrick had been more leniant with his choosing, maybe you'd have more of a choice."
+
+                "Now, what scroll would each of you like?"
+
+
+
+        Requirements: 
+            - each party member picks a scroll from Serafia
+
+        DC - whichever ability is used for spellcasting:
+            12 - access to level 2 scrolls supported by their class
 
         Rewards:
-            - 
+            - 1 magic scroll per party member
 
 
 Act 6: To Teakwood 
 
+    The grounds outside the city gates has grown soft and muddy, no doubt from the sudden increase in foot traffic from visitors for the festival, combined with the cold, damp, misty air.
+    The party notices a carriage driver waving after them in the distance.
+
+    Dialog:
+        Ned:
+            - (Happily) "Well if it isnt the lot that first came in this morning, ello everyone.". He turns to Malfeasonce, "Sorry bout earlier mate, I was wrong.
+            you got a big brain in that undead lookin skull o yours eh Ed?".
+        Ed:
+            - (chuckles) "Right Ned, Them Questions were really hard, we wouldve figured them out..."
+        
+        Ned:
+            - (Nodding in agreement) "Right you are Ed. We tell you what, you get in trouble for any minor issues in GodFell, just get the message to Ed or me, and we'll get you out 'fore you
+            can say 'Necros'"
+
     Music:
         -
 
@@ -296,11 +380,14 @@ Act 6: To Teakwood
 
     Act Milestones:
 
+        Dialog:
+            coach:
+                - (struck with boredom) "Yee the lot with Dextra thats bound fer Teakwood? yee have tha look about yee, still clad in armor and ready for a fight. Stuck out like a sore thumb
+                infront of the festival folk all dressed like those abmoninations". He eyes Malfeasonce Nervously. "Ready to depart? Dextras been sending a lot of folk down to Teakwood lately, 
+                I know the way well, well be there in a couple hours"
+
         Requirements: 
             - 
-
-        DC - :
-            -
 
         Rewards:
             - 
@@ -308,6 +395,16 @@ Act 6: To Teakwood
 
 Act 7: Teakwood Village 
 
+    The moon hangs high in the cloudless sky above the abandoned village of teakwood, illuminating the village in a cold blue light. The Coach
+    stops in the middle of the abandoned village, with not a single movement or sign of life, save for howling of wolves and screeching of bats in the distance.
+
+    Dialog:
+        Coach:
+            - (Nervously) "Well, 'ere we are then, Teakwood village. I swear every time i come ere it gives me the chills.", he stares at the party, "Not much to look at ere
+            Most o the buildings ere were pillaged years ago, mostly just smugglers and murderers find themselves passing through ere these days... You'll find the chapel at the back, 
+            past all the buildins n such. Thats what you lot are ere for innit? thats where i found the last lot anyway. I dropped em off one night see? and when i go to find em when next
+            sunrise, dey be not even corpses... just bits of bone n blood amongst some valuable equipment". He smiles, proudly, "You can bet Dex Pays a pretty copper for those.". 
+
     Music:
         -
 
@@ -317,17 +414,29 @@ Act 7: Teakwood Village
     Act Milestones:
 
         Requirements: 
-            - 
+            - approach the chapel
 
-        DC - :
-            -
+        DC - Perception: North building
 
-        Rewards:
-            - 
+            15 - Party finds smugglers cache in north building
+
+            Rewards:
+                - 20 lb of salt (1 gp)
+                - 10 lb pf flour (1 gp)
+                - 1 lb Cinnamon (2 gp)
+                - 1 lb Ginger (1 gp)
+                - 1 lb clove (3 gp)
+                - A note: "Lexis, had to stash our stuff here to keep it out of reach from some bandits, come find me at the titan ~X"
 
 
 Act 8: Teakwood Chapel
 
+    A foul stench permeates the the thick mist as the our party appraches the chapel. The once bleached stones of Teakwood chapel is now stained a red/brown from years of wear 
+    with no upkeep, clearly visible in the pale blue moonlight. moonlight breaches the inside and illuminates the first level just enough to be considered 'dimly lit', followed 
+    by the eerie sound of wind breaking against the tiles on the chapel roof, and leafless tree branches scraping away outside the walls.
+
+    The party notices several unlit sconces on the wall.
+
     Music:
         -
 
@@ -336,18 +445,36 @@ Act 8: Teakwood Chapel
 
     Act Milestones:
 
-        Requirements: 
-            - 
+        Encounter:
+            - 3x Zombies: shortly after the party has got into the chapel
+                The party notices the foul stench of rotting flesh, and the sound of feet dragging accross the floor, 2 zombies appear at the front of the chapel,
+                in front of a door thats ajar and 1 bloated zombie appears at the rear out of a coffin filled with water, all approximately 20-30 feet from the party.
 
-        DC - :
-            -
+            - 2x Ghouls: after 3 rounds or after 
+                2 Ghouls rush out of an unlocked room at the back of the chapel
+        
+        DC - Investigation:
+
+            10 - You notice that the 2 regular zombies are recently deceased, definintely less than a few days old.
+
+        Requirements: 
+            - finish all encounters
 
         Rewards:
-            - 
+            - A room to have a short rest in. (if they have bedrolls)
 
 
 Act 9: Vampires!
 
+    The sound of wind and branches wearing down the chapel drowns out as the party decends deeper into the chapel dungeon,
+    the smell of corpses now replaced with a faint smell of iron, or perhaps blood, and dust. 
+
+    The party finally reaches the bottom of the stair well. As they enter the next room, they hear the sudden sound of heavy
+    iron slamming against the concrete floor, barring the doorway behind them.
+
+    Malfeasonce and John Oath broken sense a great evil emanating within the room, the feeling that something terrible is about
+    to happen has suddenly dawned on them.
+
     Music:
         -
 
@@ -356,14 +483,37 @@ Act 9: Vampires!
 
     Act Milestones:
 
-        Requirements: 
-            - 
+        Encounter:
+            Vampire Spawn:
+                Following the slamming of the iron gates, barring the adventurers, the Vampire Spawn violently forces off the lid of her coffin.
+                the lid flys through the air in a high arc before slamming into the ground, nearly splitting in two.the Vampire Spawn turns to look at
+                the destroyed lid, half in surprise and half annoyed about the piece of her bedding being destroyed.
 
-        DC - :
-            -
+                (in a raspy voice) "... ehh... it seems that my recent feedings has left me stronger than i can remember", she turns to face the party and smiles a toothy grin.
+                "How fortunate for you, your deaths shall be quick this night.". She lunges at the nearest party member.
+
+            Vampire: after spawn / party defeat
+                Upon the vampire spawns death, the lid of the coffin at the back of the room slides off, and out of it crawls a fully fledged vampire.
+                He moves much like a snake slithers, every movement a fluid motion, almost mesmerizing. The vampire looks on at the weakened party, and smiles, revealing a 
+                set of sharp teeth not unlike that of a shark.
+
+                (in a cool, transylvanian tone) "My My My, how entertaining that vas. Long has it been since Dextra has sent such a healthy set of adventurers to be slaughtered. 
+                Though the last 6 she brought me 2 nights ago did feed me and my follower well..." He eyes the party, "perhaps 1 or 2 of you shall replace her", he lunges at the weakest (health %)
+                party member.
+
+        Requirements: 
+            - Complete encounter or fail all death saving throws
+
+        DC - Strength: iron gates
+           30 - lift iron gates
+
+        Dialog: After the encounter
+            Raya:
+                - 
 
         Rewards:
-            - 
+            - underworld medallion (reduces damage taken from undead by 1d4-1,  minimum 1)
+            - level up
 
 
 Act 10: Return to Godfell
