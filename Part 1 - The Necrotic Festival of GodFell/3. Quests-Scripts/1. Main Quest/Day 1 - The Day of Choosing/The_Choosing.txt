@@ -580,9 +580,9 @@ Act 10: Return to Godfell
                     the tiny puddlle of blood collected on the floor now mixed with dripping tears.
 
             Vilsara:
-                - After some time, a door can be heard creaking in the distance, and suddenly the wooden door leading to the room bursts open and in rushes an elderly woman ~ who looks well into her 
-                    70s or 80s
-
+                - After some time, a door can be heard creaking in the distance, and suddenly the wooden door leading to the room bursts open and in rushes an elderly woman ~ a human looking woman who looks well into her 
+                    70s or 80s and dressed in a dark blue dress and a matching shawl, with platted grey hair down to her waist. (Excitedly) "Raya! Daughter! you'll never believe this! the dragons! they've returned to GodFell!"
+                    The old woman suddenly realises her adoptive daughter isn't alone, and turns to examine the party and smiles knowingly as she recognises each member. "Oh good, you received my note! AND youre still in one piece"
 
         Requirements: 
             - 
