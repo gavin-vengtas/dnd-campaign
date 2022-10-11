@@ -227,7 +227,7 @@ Act 4.2: GoldFell Chosen
 Act 4.3: Midnight Sun
 
     Crowds cheer and make merryment in the distance as our adventurers approach the the dark guild of the midnight sun.
-    As you get closer, it almost appear to get darker, the air takes on an ominous mist and the party can almost sense
+    As you get closer, it almost appears to get darker, the air takes on an ominous mist and the party can almost sense
     the movement of guild members in the shadows surrounding the path to the guild. You arrive outside the guild doors.
 
     Dialog:
@@ -446,11 +446,11 @@ Act 8: Teakwood Chapel
     Act Milestones:
 
         Encounter:
-            - 3x Zombies: shortly after the party has got into the chapel
+            - 4x Zombies: shortly after the party has got into the chapel
                 The party notices the foul stench of rotting flesh, and the sound of feet dragging accross the floor, 2 zombies appear at the front of the chapel,
                 in front of a door thats ajar and 1 bloated zombie appears at the rear out of a coffin filled with water, all approximately 20-30 feet from the party.
 
-            - 2x Ghouls: after 3 rounds or after 
+            - 3x Ghouls: after 3 rounds or after 
                 2 Ghouls rush out of an unlocked room at the back of the chapel
         
         DC - Investigation:
@@ -532,7 +532,7 @@ Act 9: Vampires!
 
         Rewards:
             - underworld medallion (reduces damage taken from undead by 1d4-1,  minimum 1)
-            - level up
+            - everyone but Vollert feels the effects of 'Resurrection'
 
 
 Act 10: Return to Godfell
@@ -552,22 +552,46 @@ Act 10: Return to Godfell
             - (Nervously) "Well im sure you all have...", She looks around, trying not to make eye contact with anyone, "...Questions. I'll try to answer some of them the best i can on the ride back 
             to GodFell."
 
+    Shortly after boarding, the party starts to feel the toll of the stress of all the activities that took place over the last day, your bodies start to feel weak and your eyes feel heavy. 
+    one by one, everyone eventually blacks out.
+
     Music:
         -
 
     Map:
-        -
+        - DragonWatch
 
     Act Milestones:
+
+        back at GodFell, At Rayas request, Ed, Ned and Oliver help move the unconscious adventurers back into DragonWatch. 
+        The smell and burning incense and dusty books infiltrate your senses as you all come to. Before you, Stands Raya in front of a fireplace stairing in silent contemplation.
+        Next to Galateia is Oliver, who is still asleep but you recognise that his eyes are a bit puffy, as if he had been up late or crying.
+
+        Dialog:
+            Raya: 
+                - (Her head bends slightly as she realises the party is awake), "ah, it seems you are all awake. That one hasnt left your side. It seems you've all left quite the impression",
+                    she turns to look at Oliver with a pained look on her face, and sighs, "I fear that your presence may spell the death for him". 
+
+                (Why was she there at teakwood?)
+                - (Nervously) "I-Ive been Investigating the disappearences of potential new recruits over the last year... It seems recently that our numbers have been dwindling, with nobody 
+                    truly joining our ranks anymore, i just had to investigate...", she takes a deep breath, then exhales to try to control her contempt. "When I had learned that you had chosen Midnight Sun and 
+                    that... that witch!...", she slammed her fist against the wall holding the fireplace, making the rafters above shudder. "The Mayor and the boy told me she sent you to teakwood, thats when it dawned on me..."
+                    you notice blood drip onto the floor, stemming from her fist clenched far too tightly which now rested on the wall above the fireplace. "She's been poaching them and sending them to be slaughtered!"
+                    the tiny puddlle of blood collected on the floor now mixed with dripping tears.
+
+            Vilsara:
+                - After some time, a door can be heard creaking in the distance, and suddenly the wooden door leading to the room bursts open and in rushes an elderly woman ~ who looks well into her 
+                    70s or 80s
+
 
         Requirements: 
             - 
 
         DC - :
-            -
+            - 
 
         Rewards:
-            - 
+            - level up 1 level for all characters
 
 
 END OF DAY 1
