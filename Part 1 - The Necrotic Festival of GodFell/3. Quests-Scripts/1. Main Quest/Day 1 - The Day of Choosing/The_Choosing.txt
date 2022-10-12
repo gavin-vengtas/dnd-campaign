@@ -244,7 +244,7 @@ Act 4.3: Midnight Sun
 
 
     Music:
-        -
+        - https://youtu.be/WUhMLw6vq8g?t=537
 
     Map:
         -   AdventurGuilds_Edited.jpg
@@ -296,7 +296,7 @@ Act 5: Rewards
             - (Excitedly appraches) "Wow! You have a mission already? I overheard the mayor, shall I show you to Serafias?" 
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=Oeo2VCCtUZQ&t=2346s
 
     Map:
         -
@@ -324,7 +324,7 @@ Act 5.1: Serafia [Scrolls]
             He chuckles, then goes silent.
 
     Music:
-        -   
+        -   https://www.youtube.com/watch?v=AmoW-fNZxCY&list=PLhCBctsztzNWHOmnmlKEWswq8f7H38Yy9&index=1&t=4558s
 
     Map:
         -
@@ -373,7 +373,7 @@ Act 6: To Teakwood
             can say 'Necros'"
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=Oeo2VCCtUZQ&t=2346s
 
     Map:
         -
@@ -406,10 +406,10 @@ Act 7: Teakwood Village
             sunrise, dey be not even corpses... just bits of bone n blood amongst some valuable equipment". He smiles, proudly, "You can bet Dex Pays a pretty copper for those.". 
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=xHP2GgxYddY&list=PLSkW9yhFguFRP0FZbD3W1_aY1gzYS9KBl
 
     Map:
-        -
+        - RuinedVillage
 
     Act Milestones:
 
@@ -438,7 +438,8 @@ Act 8: Teakwood Chapel
     The party notices several unlit sconces on the wall.
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=cwihowRMFJA
+            https://www.youtube.com/watch?v=c1paAjqc6wg (encounter)
 
     Map:
         -
@@ -476,7 +477,8 @@ Act 9: Vampires!
     to happen has suddenly dawned on them.
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=ZL6fK9w-S-A (Vampire Spawn)
+            https://www.youtube.com/watch?v=qpjS42jIsoo&list=PLhCBctsztzNUzlANYvN9UEYQ-nl92uUTm&index=4 (Vampire)
 
     Map:
         -
@@ -556,7 +558,8 @@ Act 10: Return to Godfell
     one by one, everyone eventually blacks out.
 
     Music:
-        -
+        - https://www.youtube.com/watch?v=KhvlkOOWaHg&list=PLglUu7rOaMDvQbKouUvnZsPBfgcnTfixn&index=5
+
 
     Map:
         - DragonWatch
