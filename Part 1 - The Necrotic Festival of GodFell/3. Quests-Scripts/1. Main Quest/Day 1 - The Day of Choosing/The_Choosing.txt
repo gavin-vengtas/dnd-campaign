@@ -263,7 +263,7 @@ Act 4.3: Midnight Sun
 
                     She goes on to describe the nearby town of Teakwood, which was plagued by undead many years ago. 
                     Recently the guild had cleared out many monsters from the town save a few that have been barred within the towns old Chapel.
-                    Your mission is to leave for the town of GodFell and exterminate the remaining monsters before they escape and wreak havoc
+                    Your mission is to leave for the town of teakwood and exterminate the remaining monsters before they escape and wreak havoc
                     on the festival patrons. 
 
                     Dextra has arranged for a coach to take the party to teakwood, he is waiting outside the city when you are ready.
@@ -308,6 +308,7 @@ Act 5: Rewards
 
         Rewards:
             - 2 gp per party member and a scroll coupon (redeemable for 1 magic scroll)
+            - 1 ring of Necros (allows for radiant damage once every round on 1 physical/ranged non magical attack)
 
 
 Act 5.1: Serafia [Scrolls] 
