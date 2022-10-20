@@ -1,0 +1,61 @@
+Intro:
+
+    Ages pass on the material plane. Old rivers dry out and new rivers form, mountains grow and crumble as
+    the passage of time passes. In this age, which some call "the age of legends" or the 4th age to some 
+    scholars, 5 unlikely adventurers find themselves licking their wounds inside the old Guild of Dragonwatch.
+
+    In the age of legends, it is said that heroes were forged in mighty guilds such as these. Dragonwatch, sometimes 
+    referred to as the first guild, was once home to the mightiest heroes known to the world of valinor. Powerful Slayers of Gods, Demons, Angels, abominations and mortals alike. ALL beings met the crosshairs of the once great dragonwatch, now only a measly shadow of its former glory. 
+
+    On this day, the 2nd day of Necros in the 4th century of the age of legends (The year 412) the wise wizard Vilsara,
+    guildmaster of Dragonwatch, plots the return of her guilds glory. 
+
+
+Act 1: Vilsaras offer
+
+    beams of sunlight pierce the drawn dark maroon curtains of Dragonwatch and lit the particles of dust suspended in the air,
+    lighting the dusty room that now housed our adventurers with a dim warm, cozy sunlight. The old wizard vilsara sits down with the party
+    to explain her plans.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - (Expectantly) "Come now, im sure you all have many questions, but first we must tend to you. Coming back from death weighs heavy 
+                    tolls on the body." she looks on at Malfeasonce with sad eyes and a warm, empathetic smile, then waves her hand while making complex
+                    light gestures with her fingers. A sudden seam forms near or around the air near each player, seemingly tearing at reality and a large 
+                    mug of liquid falls out. the liquid is hot and has a dark milk like brown color, its frothy, and a has very sweet aroma. 
+                    "Itova iri [Draconic - 'loved ones'], this I received in my travels beyond IOs tear, from a community of necromancers hidden away in the snow woods.
+                    Drink. It will relieve the stress of rebirth on your bodies."
+        
+        Actions:
+            Drink the liquid:
+                - the drink is perfectly sweet and envokes the taste of what can be described as moist chocolate cake, you feel 
+                    the warm liquid seeping down to your empty stomach, seemingly making it feel full once more. a warmth starts to fill
+                    your body. HP restored and All debuffs/afflictions are removed. Roll a 1d6 for any of the following benefits:
+
+                        1. Nothing
+                        2. Advantage on next Intimidation/persuasion check
+                        3. 10% off of store items for the day
+                        4. Advantage on next hit
+                        5. Inspired
+                        6. Inspired + 1d6 on next 3 attacks
+
+                DC - Investigation: mug of liquid
+
+            10 - You notice that the 2 regular zombies are recently deceased, definintely less than a few days old.
+
+        Requirements: 
+            - finish all encounters
+
+        Rewards:
+            - A room to have a short rest in. (if they have bedrolls)
+
+
