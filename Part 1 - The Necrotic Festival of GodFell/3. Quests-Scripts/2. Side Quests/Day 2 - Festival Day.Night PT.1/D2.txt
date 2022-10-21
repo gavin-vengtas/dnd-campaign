@@ -1,0 +1,575 @@
+1. Missing pet turtle:
+    
+    Giver:
+        - A nobleman (around GodFell)
+
+    Requirements:
+        - find Titan
+    
+    Rewards:
+        - 20gp (+5gp)
+        - amulet of protection (3% chance to negate all damage but radiance entirely, doesnt stack) (x2)
+
+    
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act 1: Acquisition
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                nobleman: 
+                    - (Apologeticly) "Hello good sirs, i recognise you from your perfomance yesterday on the Bridge,
+                    Good show! that was a most impressive display. You people certainly seem quite capable" He looks 
+                    over to his daughter, sobbing and being consoled by her caretaker, "My Daughter, her pet turtle 
+                    fell into the river by the Bridge. wont you assist us in recovering him?" His daughter, overhearring 
+                    her fathers plea, rushes over.
+
+                daughter:
+                    - (through her tears) "Titan! his name is Titan! Please! Please bring him back to me! My mother gave him
+                    to me! I didnt mean to drop him! that big oaf knocked me over!", she reaches into her cloak pockets and pulls
+                    out 2 silver pieaces and 5 copper pieces, "Thats all i have! please! bring him back, he isnt safe down there!", 
+                    she squats down with her head in her hands, sobbing.
+
+                nobleman:
+                    - (Firmly) "Please, if you find him I'll reward you handsomly for his return", he pulls out a large pouch from his Garb.
+                    "He's light green with a browm shell, but he has a bright purple hexagon shape at the top of it that looks like a jewel, 
+                    very unique for its kind".
+
+                    
+            Actions:
+                Acceptance:
+                    - The nobleman thanks the party and directs them toward the Bridge.
+
+            DC - persuasion: mug of liquid
+
+                (3 party members)
+                15 - 5gp more 
+                20 - 1 extra amulet of protection
+
+            Requirements: 
+                - finish Dialog with nobleman
+
+            Rewards:
+                - 
+
+    Act 2: The Bridge
+
+        crowds arent tightly packed this morning at the bridge, some children can be spotted gathering at the edges and pointing below.
+        Along with Ed, one of the town guards, scratching his helmet.
+
+        Act Milestones:
+
+            Dialog:
+                Ed: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 3: Cries from Under The Bridge
+
+        crowds arent tightly packed this morning at the bridge, some children can be spotted gathering at the edges and pointing below.
+        Along with Ed, one of the town guards, scratching his helmet.
+
+        Act Milestones:
+
+            Dialog:
+                Ed: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Encounter:
+                - 1x Bandit Captain
+
+                - 6x Bandits
+
+            Requirements: 
+                - (Optional) Release the Dragon Turtle Wyrmling
+                - defeat the Bandit Captain and his minions
+
+            Rewards:
+                - 
+
+    Act 4: Return to The Nobleman
+
+        crowds arent tightly packed this morning at the bridge, some children can be spotted gathering at the edges and pointing below.
+        Along with Ed, one of the town guards, scratching his helmet.
+
+        Act Milestones:
+
+            Dialog:
+                Ed: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+2. Necros Challenge (Takeshis Trek):
+
+    Giver:
+        - Mayor Windfell (around GodFell)
+
+    Requirements:
+        - find Titan
+    
+    Rewards:
+        - 2gp
+        - 2x scrolls shop voucher
+
+    
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act 1:
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Mayor Windfell: 
+                    - 
+                    
+            Actions:
+                Attempt Challenge (1 members): 
+                    - (Pillar Jumpp)
+
+                    - (Rope Swing)
+
+                    - (Box Finder)
+
+                    - (treasure Swap)
+
+                    DC - Athletics: pillar jump
+
+                        5 - Fall into the pool of water (-1 points)
+                        10 - Navigate the obstacle with no problems (0 points)
+                        15 - Navigate the obstacle with ease (+1 points)
+                        20 - Fly through the obstacle (+2 points)
+
+                    DC - Acrobatics: Rope Swing
+
+                        5 - Fall into the pool of water (-1 points)
+                        10 - Navigate the obstacle with no problems (0 points)
+                        15 - Navigate the obstacle with ease (+1 points)
+                        20 - Fly through the obstacle (+2 points)
+
+                    DC - Perception: box finder
+
+                        10 - Find the object after a few Attempts (0 points)
+                        15 - Find object after 1 Attempt (+1 points)
+                        20 - instantly find object (+2 points)
+
+                    DC - Sleight Of Hand: Treasure Swap
+
+                        10 - trigger trap (-1 points)
+                        15 - Swap objects after some time (0 points)
+                        20 - Swap objects in the blink of an eye (+1 points)
+
+                    DC - Multiple: Distraction (2 members not competing, top result)
+
+                        5 - No Distraction (deduct 0)
+                        10 - okay Distraction (deduct 2)
+                        15 - good Distraction (deduct 4)
+                        20+ - Forced Fail
+
+                    DC - Multiple: Cheer (1 members not competing)
+
+                        5 - No Effect (Add 0)
+                        10 - okay Cheer (Add 2)
+                        15 - good Cheer (Add 4)
+                        20+ - Motivatin Shout (Roll Advantage on Challenge)
+
+            Requirements: 
+                - finish Takeshis Trek
+
+            Rewards:
+                - 
+
+3. Chefs assistant:
+
+    Giver:
+        - Ed (GodFell Bridge)
+
+    Requirements:
+        - Gather ingredients for chef Closeu
+    
+    Rewards:
+        - 2gp each
+        - Enchanted Snack Bag (holds 3 random snacks, each snack eaten replinshes health, restores after a long rest, used out of battle)
+
+    
+    Music:
+        - 
+
+    Map:
+        - GodFell Bridge 
+
+    Act 1:
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            Requirements: 
+                - Defeat the monsters in the chefs basement
+
+            Rewards:
+                - 
+
+4. Necros Challenge (Fight Pits):
+
+    Giver:
+        - Baris HammerForge (around GodFell)
+
+    Requirements:
+        - find Titan
+    
+    Rewards:
+        - 3gp per party member
+        - Ring of Mind Meld (twice per long rest, add 1d4 psychic damage to any attack)
+
+    
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act 1: The Timid Orc
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 2: Adventurers VS Spellmancers
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 3: Adventurers VS TiefThings
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 4: Adventurers VS GodFell Champions
+
+5. Treasures of GodFell dungeons:
+
+    Giver:
+        - Alaan looselock (around GodFell)
+
+    Requirements:
+        - find Titan
+    
+    Rewards:
+        - 5gp per character
+        - Rakas Blessing (badge, once a day gain advantage on stealth checks)
+        - Rakas boots (allows for sneaking in bulky armor, 5 hours per long rest)
+
+    
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act 1: The Proposal
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 2: Into  GodFell Catacombs
+        
+        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
+        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
+        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+
+        The nobleman spots the party and approaches them.        
+
+        Act Milestones:
+
+            Dialog:
+                Vilsara: 
+                    - 
+                    
+            Actions:
+                Drink the liquid:
+                    - 
+
+            DC - Investigation: mug of liquid
+
+                10 - 
+
+            DC - medicine: mug of liquid
+
+                15 - 
+
+            Requirements: 
+                - finish Dialog with Alaan
+
+            Rewards:
+                - 
+
+    Act 3: Rakas Maze
+
+
+        The nobleman spots the party and approaches them.        
+
+            Act Milestones:
+
+                Dialog:
+                    Vilsara: 
+                        - 
+                        
+                Actions:
+                    Drink the liquid:
+                        - 
+
+                DC - Investigation: mug of liquid
+
+                    10 - 
+
+                DC - medicine: mug of liquid
+
+                    15 - 
+
+                Requirements: 
+                    - finish Dialog with Alaan
+
+                Rewards:
+                    - 
+
+    Act 4: Rakas rest
+
+        The nobleman spots the party and approaches them.        
+
+            Act Milestones:
+
+                Dialog:
+                    Vilsara: 
+                        - 
+                        
+                Actions:
+                    Drink the liquid:
+                        - 
+
+                DC - Investigation: mug of liquid
+
+                    10 - 
+
+                DC - medicine: mug of liquid
+
+                    15 - 
+
+                Requirements: 
+                    - finish Dialog with Alaan
+
+                Rewards:
+                    - 
+
+    Act 5: Return to Alaan
+
+        The nobleman spots the party and approaches them.        
+
+            Act Milestones:
+
+                Dialog:
+                    Vilsara: 
+                        - 
+                        
+                Actions:
+                    Drink the liquid:
+                        - 
+
+                DC - Investigation: mug of liquid
+
+                    10 - 
+
+                DC - medicine: mug of liquid
+
+                    15 - 
+
+                Requirements: 
+                    - finish Dialog with Alaan
+
+                Rewards:
+                    - 

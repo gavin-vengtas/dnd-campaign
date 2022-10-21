@@ -1,0 +1,54 @@
+Description:
+
+    Name: Vasha Lightcaller
+
+    Alignment: Neutral Good
+
+    Race: High Elf
+
+    Class: Cleric
+
+    Character Description:
+
+        Vasha is a tall milk skinned middle aged high-Elf (200 years old) and an exceptional healer. he wears a white-gold tunic adorned
+        with multicolored Jewels around the neckline, his clinic is renowned around GodFell (If not all of Zamarok) for being a haven for
+        warriors in need of recovery. He is also known as a skilled alchemist and is the kingdoms unofficial authority on ailments and 
+        diseases.
+
+        He's also a long time friend and comrade of Vilsara, Rodrick and Balthanon (the guildmasters of godfell), and a teacher to Raya
+
+    Shop Description:
+
+        Vashas clinic is a round tent-like structure with a clearing for natural light over the roof of the tent. An entrance/Exit exists for
+        the North/South/East and West sides of the building. Beds are neatly spread out around the circle with 3 between every entrance and Exit
+        and a private quarters exists next to the southern exit.
+
+    NPCs:
+        Vasha:
+
+        Clinic assistant:
+        
+    Services:
+        - Restoration
+            partial - 1sp per health point
+            Full - 1gp
+
+        - Revival
+            2gp
+
+        - Resurrection
+
+            Standard - 200gp
+            True - 1000gp
+
+        - Spell slot Restoration:
+
+            lvl 1 - 1gp
+            lvl 2 - 10gp
+            lvl 3 - 50gp
+            lvl 4 - 200gp
+            lvl 5 - 500gp
+            lvl 6 - 1000gp
+            lvl 7 - 2500gp
+            lvl 8 - 5000gp
+            lvl 9 - 10000gp
