@@ -1,0 +1,417 @@
+Intro:
+
+    Ages pass on the material plane. Old rivers dry out and new rivers form, mountains grow and crumble as
+    the passage of time passes. In this age, which some call "the age of legends" or the 4th age to some 
+    scholars, 5 unlikely adventurers find themselves licking their wounds inside the old Guild of Dragonwatch.
+
+    In the age of legends, it is said that heroes were forged in mighty guilds such as these. Dragonwatch, sometimes 
+    referred to as the first guild, was once home to the mightiest heroes known to the world of valinor. Powerful Slayers of Gods, Demons, Angels, abominations and mortals alike. ALL beings met the crosshairs of the once great dragonwatch, now only a measly shadow of its former glory. 
+
+    On this day, the 2nd day of Necros in the 4th century of the age of legends (The year 412) the wise wizard Vilsara,
+    guildmaster of Dragonwatch, plots the return of her guilds glory. 
+
+
+Act 1: Vilsaras offer
+
+    beams of sunlight pierce the drawn dark maroon curtains of Dragonwatch and lit the particles of dust suspended in the air,
+    lighting the dusty room that now housed our adventurers with a dim warm, cozy sunlight. The old wizard vilsara sits down with the party
+    to explain her plans.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - (Expectantly) "Come now, im sure you all have many questions, but first we must tend to you. Coming back from death weighs heavy 
+                    tolls on the body." she looks on at Malfeasonce with sad eyes and a warm, empathetic smile, then waves her hand while making complex
+                    light gestures with her fingers. A sudden seam forms near or around the air near each player, seemingly tearing at reality and a large 
+                    mug of liquid falls out. the liquid is hot and has a dark milk like brown color, its frothy, and a has very sweet aroma. 
+                    "Itova iri [Draconic - 'loved ones'], this I received in my travels beyond IOs tear, from a community of necromancers hidden away in the snow woods.
+                    Drink. It will relieve the stress of rebirth on your bodies."
+
+                (Dragons returning?)
+                - 
+
+                (Why are the adventurers here?)
+                - (she takes a deep breath, the tips of the lit candles around the room seem to pull toward her, then flairs up as she exhales)
+                    "Right, lets get to it.". She stands up, "Itova iri [Draconic - 'loved ones'] a great scheme is afoot. It appears that there are forces at play that are working hard to
+                    see the downfall of Dragonwatch, and as it appears, the lot of you as well. In recent years, our numbers have been hunted out and killed and the reach of Dragonwatch over
+                    Zamarok has dwindled." the once dry and dusty wooden floor where she stood now grew moist with drops of tears. (she sighs) "My children are now mostly gone, save for
+                    a few special souls.", she gives a sad smile and gestures toward Raya, who sat silently on the floor near the fireplace, her long silver tail wrapped 
+                    around her legs.
+
+                    "You lot are being targeted, by the same forces that slaughtered my children. But not for much longer.". she turns to face the party, the candles around
+                    the room burning violently, almost hissing. "Join Dragonwatch, there is room for all of you. And I will mould you and give you the power to seek out
+                    and smite the mightiest of enemies. whether it be mortals or gods.", the candles around the room seemed to die down to their natural states.
+                    "Help me build our ranks once more and restore honor to the halls of DragonWatch. And in return, you shall know power the likes of which Zamarok has not seen
+                    in 3 ages."
+
+                (Whats next?)
+                - "The bruha Dextra of Midnight Sun, she will know pain far beyond that of any of my children", the candle fires start to flare up again, "but first she will lose everything".
+                    "Itova iri [Draconic - 'loved ones'], our first mission is to infiltrate Midnight Sun, we will raid her vaults and take back what is ours, and perhaps more". she smiles and 
+                    looks up with fire in her eyes. "But first, we'll need the help of some specialists.", the old woman stares into the fire, lost in thought, and oulling out s poker to stoke its flames."a halfling,
+                    a tiefling and an orc". She turns around to face the party, her tears now replaced with a grin of excitement. "Oh how exciting! We've not done a heist since
+                    me and the boys nicked the treasures in king aslims citadel in the north!".
+
+                    Raya looks up in disbelief, her silver scaled face shone a red tinge of embarresment, "Mother!".
+
+                    "Oh come daughter, by now even you should know that not all of our endeavers over the ages have been... Lawful", she smiles innocently.
+
+                (finishing up)
+                - "First i suggest you find Alaan looselock the halfling. the old ankle biter has a knack for stealthy missions like these. if were to take everything back from Dextra, he'll know where to start. You'll find
+                    the halfling drunk at 'The dancing titan'", The old woman walked up to the fireplace and grabbed a small portrait off the mantle. "Next you'll need to keep an eye out for this young tiefling woman", She
+                    hands the party the portrait, which is painted in the image of a sleek looking orange tiefling woman with green eyes and red hair flowing down to her waist. "Lunara Hellborne was once of our ranks, till she
+                    left to work for Midnight Sun, ammicably of course... i've heard rumors that she's recently fallen on bad terms with Dextra and has gone into hiding. Find her. Bring her home. No doubt she could help our cause..."
+                    She shakes off the worried look on her face "...and lastly we'll need an orc woman, Roxarr Fengarr. her strength is unmatched in GodFell. I happen to know that she'll be defending her title this evening at the trials
+                    of Gendrick. do be sure to speak to her too."
+
+                    She turns to Raya, "Itova ir [Draconic - 'loved one'], you must travel into the city for supplies to accomodate our new residents". Raya curtsies toward Vilsara, "It shall be done mother."
+        
+        Actions:
+            Drink the liquid:
+                - the drink is perfectly sweet and envokes the taste of what can be described as moist chocolate cake, you feel 
+                    the warm liquid seeping down to your empty stomach, seemingly making it feel full once more. a warmth starts to fill
+                    your body. HP restored and All debuffs/afflictions are removed. Roll a 1d6 for any of the following benefits:
+
+                        1. Nothing
+                        2. Advantage on next Intimidation/persuasion check
+                        3. 10% off of store items for the day
+                        4. Advantage on next hit
+                        5. Inspired
+                        6. Inspired + add 1d6 necrotic damage on next 3 attacks
+
+        DC - Investigation: mug of liquid
+
+            10 - You recognise the liquid to have magical properties.
+            20 - You recognise the liquid to be a form of Necro Pura, an extremely rare and potent priceless medicine.
+
+        DC - medicine: mug of liquid
+
+            15 - You recognise the liquid to be a form of Necro Pura, an extremely rare and potent priceless medicine.
+
+        Requirements: 
+            - finish Dialog with Vilsara
+
+        Rewards:
+            - A Guild
+
+Act 2: At the Dancing Titan
+
+    b
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 3: Below GodFell Bridge
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 4: Gendricks Tournament
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 5: The Plan at DragonWatch
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 6: Daylight Robbery
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 7: Distraction at Lake GodFell!
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 8: Beneath the Midnight Sun
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 9: The Vault
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 10: Champions of Dragonwatch
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
