@@ -72,48 +72,35 @@
 
             Dialog:
                 Ed: 
-                    - 
-                    
-            Actions:
-                Drink the liquid:
-                    - 
-
-            DC - Investigation: mug of liquid
-
-                10 - 
-
-            DC - medicine: mug of liquid
-
-                15 - 
+                    - (Sadly) "poor turtle, i didnt mean to knock you over...", Ed looks sadly over the bridge, "look! theres more turtles!".
+                    He turns and looks at the party, "ello champions, I avent seen you since i elped Raya bring you in". He looks back to the water,
+                    "Something Strange is appenin down there, ive been seeing all mannor o' creature climbing down that ledge there", he points to the northwest corner.
 
             Requirements: 
-                - finish Dialog with Alaan
+                - Descend under the bridge
 
             Rewards:
                 - 
 
     Act 3: Cries from Under The Bridge
 
-        crowds arent tightly packed this morning at the bridge, some children can be spotted gathering at the edges and pointing below.
-        Along with Ed, one of the town guards, scratching his helmet.
+        deep cries of some creature can be heard emanating beyond a doorway under the bridge, various insects and turtles small creatures seem to 
+        be lingering outside it, as if wanting to go in. the doorwar leads to a hallway which in turn seems to lead to an underground cave.
 
         Act Milestones:
 
             Dialog:
-                Ed: 
-                    - 
-                    
-            Actions:
-                Drink the liquid:
-                    - 
+                Dragon turtle wyrmling: 
+                    - (in draconian) "Please Help Me! I am trapped and theyre trying to take me away!", The Dragon turtle seems to be strugglinf to break features
+                        of its trap.
 
-            DC - Investigation: mug of liquid
+                        DC - Strength: 
 
-                10 - 
+                            15 - break trap
 
-            DC - medicine: mug of liquid
+                        DC - Sleight of hand: 
 
-                15 - 
+                            15 - Disarm trap
 
             Encounter:
                 - 1x Bandit Captain
@@ -129,32 +116,20 @@
 
     Act 4: Return to The Nobleman
 
-        crowds arent tightly packed this morning at the bridge, some children can be spotted gathering at the edges and pointing below.
-        Along with Ed, one of the town guards, scratching his helmet.
+        Back in GodFell the nobleman is excited to see the return of the champions with turtle in hand.
 
         Act Milestones:
 
             Dialog:
                 Ed: 
                     - 
-                    
-            Actions:
-                Drink the liquid:
-                    - 
-
-            DC - Investigation: mug of liquid
-
-                10 - 
-
-            DC - medicine: mug of liquid
-
-                15 - 
 
             Requirements: 
-                - finish Dialog with Alaan
+                - finish Dialog with Nobleman
 
-            Rewards:
-                - 
+            Rewards:                        
+                - 20gp (+5gp)
+                - amulet of protection (3% chance to negate all damage but radiance entirely, doesnt stack) (x2)
 
 2. Necros Challenge (Takeshis Trek):
 
@@ -165,7 +140,7 @@
         - find Titan
     
     Rewards:
-        - 2gp
+        - 5gp
         - 2x scrolls shop voucher
 
     
@@ -177,17 +152,28 @@
 
     Act 1:
         
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
-
-        The nobleman spots the party and approaches them.        
+        the sounds of children laughing and cheering can be heard near the lake outside Dragonwatch, today the mayor has set 
+        up Takeshis challenge, a grulling obstacle course meant to test the various skills of its challengers
 
         Act Milestones:
 
             Dialog:
                 Mayor Windfell: 
-                    - 
+                    - (Excitedly) "Have the champions come to try their hand at Takshis challenge? Excellent!"
+
+            challengers:
+                Tiefling Woman:
+                    Athletics - +2
+                    Acrobatics - +3
+                    Perception - +1
+                    Sleight of hand - +3
+
+                Half-Elf Man:
+                    Athletics - +1
+                    Acrobatics - +2
+                    Perception - +3
+                    Sleight of hand - +2
+
                     
             Actions:
                 Attempt Challenge (1 members): 
@@ -232,7 +218,7 @@
                         15 - good Distraction (deduct 4)
                         20+ - Forced Fail
 
-                    DC - Multiple: Cheer (1 members not competing)
+                    DC - Multiple: Cheer (2 members not competing, top result)
 
                         5 - No Effect (Add 0)
                         10 - okay Cheer (Add 2)
@@ -248,7 +234,7 @@
 3. Chefs assistant:
 
     Giver:
-        - Ed (GodFell Bridge)
+        - Ned (GodFell Bridge)
 
     Requirements:
         - Gather ingredients for chef Closeu
@@ -266,21 +252,22 @@
 
     Act 1:
 
-        The nobleman spots the party and approaches them.        
+        A familiar town guard spots the party on the bridge   
 
         Act Milestones:
 
             Dialog:
-                Vilsara: 
-                    - 
+                Ned: 
+                    (Excitedly)"Champions! wont you come help?", he looks truly happy that he found you, "My cousin ownse this 
+                    restaraunt see? and hes avin a bit a bad luck, one of the monster that 'e was about to cook got out", he looks 
+                    at you pleadingly, "wont you help? im sure e'll reward you handsomly!"
+
+                Chef Waterwick:
+                    (Excitedly) "Ned! finally! the bloody thing is destorying my pantry! please adventurers, come quickly!"
                     
-            Actions:
-                Drink the liquid:
-                    - 
-
-            DC - Investigation: mug of liquid
-
-                10 - 
+            
+            Encounter:
+                1x Giant Scorpion
 
             Requirements: 
                 - Defeat the monsters in the chefs basement
@@ -343,9 +330,8 @@
                     fer the furst round?"
 
                 (after signing the party up)
-                    "Excellent! i have a good feeling bout ye lot. Now fer the rules. ye got 3 rounds. First round ye must survive against Powerful monsters 
-                    ~ those ye can kill if ye can", the dwarf strokes his long red beard in contemplation, "Then ye must face off against an apposing set of champions,
-                    try to knock em out instead of killin em outright. Then if ye still stand ye will face off against our champions from last festival.", the
+                    "Excellent! i have a good feeling bout ye lot. Now fer the rules. ye got 3 rounds. on each one you will face powerful monsters", 
+                    the dwarf strokes his long red beard in contemplation, "Then if ye still stand ye will face off against our champions from last festival.", the
                     dwarf sighs, "and I suppose the one before that and before that and so on... between each round ye'll be gettin healing from Vasha himself, he'll
                     restore ye health and ye spells. any questions?"
                     
@@ -359,64 +345,66 @@
             Rewards:
                 - 
 
-    Act 2: Adventurers VS monsters (Round 1)
+    Act 2: Adventurers VS monsters (Round 1-3)
         
-        Sun sets on GodFell and pents an orange/red atmosphere as crowds now pack the GodFell stadium, all eagerly awaiting to see the champions
-        in combat for Gendricks Tournament.
+        Great Crowds have now gathered and packed the stadium, and a cacauphony of screams and cheers fills the air as the Tournament commenses.
 
         Act Milestones:
 
             Dialog:
                 Baris: 
-                    - 
+                    - (to the crowd) "in the 3rd age, the great hunter Gendrick faced an onslaught of monsters during the long night. Over 3 nights the hunter
+                    was said to have faced hundreds of monsters who layed siege to GodFell. By the end of the third night, the hoards had dwindled and retreated,
+                    But GENDRICK had naught a scratch! This Tournament is GodFells honor to Gendrick, one of many heroes of GodFell. Welcome to Gendricks Tournament!"
+                    The crowd cheers as the first set team Attempts the Tournament. Our adventurers have been sorted and are attempting the Tournament last.
+
+                    Many teams attempt the challenge, going against various types of undead, aberations, beasts and fiends. all but 1 faced the champion, which was promptly
+                    slaughtered (knocked out actually) by her.
                     
-            Actions:
-                Drink the liquid:
-                    - 
+            
 
-            DC - Investigation: mug of liquid
+            Encounters:
+                Round 1:
+                    1x gibbering mouther
+                    2x chokers
 
-                10 - 
+                Round 2:
+                    3x Ghasts
+
+                Round 3:
+                    1x manticore
 
             Requirements: 
-                - finish Dialog with Alaan
+                - Survive all encounters
 
             Rewards:
                 - 
 
-    Act 3: Adventurers VS TiefThings
-        
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
-
-        The nobleman spots the party and approaches them.        
+    Act 3: Adventurers VS Roxarra        
 
         Act Milestones:
 
             Dialog:
-                Vilsara: 
-                    - 
+                Baris:
+                    [before the final fight] 
+                        (to the crowd) "And now for our final match! ladies and gentlemen, the champions of Necros Vs Roxarra!"
+                        the crowd cheers and chants in unison "Roxy! Roxy! Roxy!"
+
+                        Roxarr steps out into the field, clad in armor and brandishing a greatsword and a longbow. the crowd goes wild.
+                
+                Roxarra:
+                    [facing the adventurers]
+                        (Confidently) "You wormlings ready?"
                     
-            Actions:
-                Drink the liquid:
-                    - 
-
-            DC - Investigation: mug of liquid
-
-                10 - 
-
-            DC - medicine: mug of liquid
-
-                15 - 
+            Encounter:
+                1x champion
 
             Requirements: 
-                - finish Dialog with Alaan
+                - finish battle with Roxarra
 
             Rewards:
-                - 
-
-    Act 4: Adventurers VS GodFell Champions
+                - 3gp per party member (5gp for winning)
+                - Ring of Mind Melt (twice per long rest, add 1d4 psychic damage to any attack) [condition: win battle]
 
 5. Treasures of GodFell Catacombs:
 
@@ -440,126 +428,92 @@
 
     Act 1: The Proposal
         
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
+        The dancing titan is lively on the morning of the 2nd day of the festival, many of the patrons wear facepaints and strange outfits
+        that pay homage to the dead. Bar maidens rush to and from the bar dodging customers and our adventurers in an effort to serve there
+        orders.
 
-        The nobleman spots the party and approaches them.        
+
+        Music:
+            - 
+
+        Map:
+            -
 
         Act Milestones:
 
             Dialog:
-                Vilsara: 
-                    - 
+                Lessa Landell(Bartender):
+
+                    [After Seeing Party]
+                        (in a rush) "Ah! if it isnt our first nights Champions! what can i get you?", She reaches under the bar to pull out some bottles
+                        and poor some mead for the maiden waiting eagerly at the end of the bar with her tray.
+
+                    (have your seen alaan?)
+                        (looking puzzled) "alaan? you mean looselock? thats the old drunk right there", she gestures toward the end of the bar toward an 
+                        old halfling that seems to be talking up a very tall and attractive half elf woman dressed in red, who seemed nearly three times his size.
+
+                Alaan looselock: 
                     
-            Actions:
-                Drink the liquid:
-                    - 
+                    [After being approached]
+                        (talking to the Half-Elf woman) "S-so anywaysh, me and the team are up in Ashlims Citadel. Baelor and Vaan are out cold and *hic* Villysh 
+                        misshing", The halfling notices the adventurers and cuts his story short. "My apologies sweetheart, it seems i have business." The half 
+                        elf woman leans in and whispers into his ear, kisses him on the cheek then leaves. 
 
-            DC - Investigation: mug of liquid
+                        "Ah, your with villy arent ya? troubling news about yer guild aye ladsh? troubling indeed.", he turns to the bar to finish his drink. 
+                        "Villy tellsh me that sticky witch has taken some important things from her. thingsh *hic* she needs returned for the sake of her guild.
+                        I CAN help. but first i need you to help me.".
 
-                10 - 
+                        The old halfling goes silent for a moment, pondering or perhaps recalling an event that happened long past. "Its my brother, i need his body."
 
-            DC - medicine: mug of liquid
+                        The greying thief tells the party about the time he went on a heist with his brother Raka many years ago, that involved going into the Catacombs under the city.
+                        while making their escape, they were attacked by ghastly creatures. Alaan managed to escape but his brother never did.
 
-                15 - 
+                        "I've never gone down into the Catacombs since... (he sighs) find my brother, please, so that I may finally put him to rest. I'll even pay yee fer
+                        the trouble."
+
+                        he hands the party a pale blue orb. "This is enchanted to find our clans badge, it'll grow warm when your close to...", he pauses for a moment then sighs, "to
+                        his body."
+
+                        he hands oliver an electrum piece and asks him to take you to the Catacombs when you are ready. the boy lights up.
+
+                        DC - persuasion: 
+
+                            20 - Alaan agrees to come without completion of the sidequest, allows for completion on another day.
 
             Requirements: 
                 - finish Dialog with Alaan
 
             Rewards:
-                - 
+                - 2gp for each party member if they take up his request
 
-    Act 2: Into  GodFell Catacombs
+    Act 2: Into GodFell Catacombs
         
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
-
-        The nobleman spots the party and approaches them.        
+        Cool damp stagnant air fills the Catacombs under Godfell, the scurry of rats and other creatures can be heard in the distance as
+        the adventurers descend into the Catacombs     
 
         Act Milestones:
 
             Dialog:
-                Vilsara: 
-                    - 
-                    
-            Actions:
-                Drink the liquid:
-                    - 
+                Oliver: 
+                    (Nervously) "This is the Catacombs, Sen says i shouldnt go down here. he says there are dangerous monsters...".
 
-            DC - Investigation: mug of liquid
 
-                10 - 
+            Encounters:
+                1x Bandit Leader
 
-            DC - medicine: mug of liquid
+                Nx bandits
 
-                15 - 
+                Nx Ghouls
+                
+            
 
             Requirements: 
-                - finish Dialog with Alaan
+                - Find Radas body.
 
             Rewards:
                 - 
 
-    Act 3: Rakas Maze
-
-
-        The nobleman spots the party and approaches them.        
-
-            Act Milestones:
-
-                Dialog:
-                    Vilsara: 
-                        - 
-                        
-                Actions:
-                    Drink the liquid:
-                        - 
-
-                DC - Investigation: mug of liquid
-
-                    10 - 
-
-                DC - medicine: mug of liquid
-
-                    15 - 
-
-                Requirements: 
-                    - finish Dialog with Alaan
-
-                Rewards:
-                    - 
-
-    Act 4: Rakas rest
-
-        The nobleman spots the party and approaches them.        
-
-            Act Milestones:
-
-                Dialog:
-                    Vilsara: 
-                        - 
-                        
-                Actions:
-                    Drink the liquid:
-                        - 
-
-                DC - Investigation: mug of liquid
-
-                    10 - 
-
-                DC - medicine: mug of liquid
-
-                    15 - 
-
-                Requirements: 
-                    - finish Dialog with Alaan
-
-                Rewards:
-                    - 
-
-    Act 5: Return to Alaan
+    Act 3: Return to Alaan
 
         The nobleman spots the party and approaches them.        
 
