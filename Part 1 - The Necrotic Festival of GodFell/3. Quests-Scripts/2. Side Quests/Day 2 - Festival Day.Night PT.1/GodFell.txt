@@ -298,7 +298,7 @@
     
     Rewards:
         - 3gp per party member
-        - Ring of Mind Meld (twice per long rest, add 1d4 psychic damage to any attack)
+        - Ring of Mind Melt (twice per long rest, add 1d4 psychic damage to any attack)
 
     
     Music:
@@ -308,49 +308,66 @@
         -
 
     Act 1: The Timid Orc
+
+        Crowds gather and cheer at the stadium in the evening, eagerly awaiting the gory and brutal battles of tonights Tournament of champions.
+         The Tournament of champions is held every year during Necros, and features Roxarra and her family as the running champions for the last 6 years.
+
+
+        Music:
+            - 
+
+        Map:
+            -
         
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
-
-        The nobleman spots the party and approaches them.        
-
         Act Milestones:
 
-            Dialog:
-                Vilsara: 
-                    - 
+        Dialog:
+            Roxarra: 
+                [After being approached]
+                    "Ah! your the wyrmlings from Dragonwatch eh? you dont seem that special to me", the tall fit orc woman
+                    lets out a bolsterous laugh, "Ah wyrmlings, i crack myself up.", she puts her hands on her hips, "While i'd love to go with you 
+                    and stick one to Dex, First i need some proof that you lot are as capable as you say", the orc woman starts using the morningstar
+                    that shes holding to scratch a sudden itch on her head, Then her eyes grow big from a sudden realizations. "I know! you can enter
+                    the Tournament! if you perform well, ill join you pipsqueaks on your adventure!". she laughs bolsterously, "Ah! if you managed to beat
+                    us, ill even consider joining DragonWatch".
+
+
+                DC - persuasion/Intimidation: 
+
+                    25 - She comes with the party, without having to perform in the Tournament.  
+
+            Baris HammerForge:
+                [After being apprached/appraches players]
+                    (Excitedly) "Ah! the champyuns of last night festivitehs! how fair ye? think ye got what it takes?", Baris eyes the
+                    armor that the party is wearing, "Ye look like yer armorr is in dire need of a few dents! Har Haa! Shall i put yee names down?
+                    fer the furst round?"
+
+                (after signing the party up)
+                    "Excellent! i have a good feeling bout ye lot. Now fer the rules. ye got 3 rounds. First round ye must survive against Powerful monsters 
+                    ~ those ye can kill if ye can", the dwarf strokes his long red beard in contemplation, "Then ye must face off against an apposing set of champions,
+                    try to knock em out instead of killin em outright. Then if ye still stand ye will face off against our champions from last festival.", the
+                    dwarf sighs, "and I suppose the one before that and before that and so on... between each round ye'll be gettin healing from Vasha himself, he'll
+                    restore ye health and ye spells. any questions?"
                     
             Actions:
-                Drink the liquid:
-                    - 
-
-            DC - Investigation: mug of liquid
-
-                10 - 
-
-            DC - medicine: mug of liquid
-
-                15 - 
+                -
 
             Requirements: 
-                - finish Dialog with Alaan
+                - finish Dialog with Rixarra and Baris
+                - Join the Tournament
 
             Rewards:
                 - 
 
-    Act 2: Adventurers VS Spellmancers
+    Act 2: Adventurers VS monsters (Round 1)
         
-        A nobleman is seen consoling his daughter, he's dressed in a white Garb adorned with various types of 
-        precious stones, while she seems to be wearing a white hooded robe with 2 black Jewels at the top 
-        (perhaps to look like a ghost?). She is distraught and seems to have been crying for some time.
-
-        The nobleman spots the party and approaches them.        
+        Sun sets on GodFell and pents an orange/red atmosphere as crowds now pack the GodFell stadium, all eagerly awaiting to see the champions
+        in combat for Gendricks Tournament.
 
         Act Milestones:
 
             Dialog:
-                Vilsara: 
+                Baris: 
                     - 
                     
             Actions:
@@ -360,10 +377,6 @@
             DC - Investigation: mug of liquid
 
                 10 - 
-
-            DC - medicine: mug of liquid
-
-                15 - 
 
             Requirements: 
                 - finish Dialog with Alaan

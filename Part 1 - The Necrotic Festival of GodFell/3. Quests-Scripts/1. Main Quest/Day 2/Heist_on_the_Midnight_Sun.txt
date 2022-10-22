@@ -277,25 +277,25 @@ Act 4: Gendricks Tournament
 
         Dialog:
             Roxarra: 
-                - 
-                
-        Actions:
-            Drink the liquid:
-                - 
+                [After being approached]
+                    "Ah! your the wyrmlings from Dragonwatch eh? you dont seem that special to me", the tall fit orc woman
+                    lets out a bolsterous laugh, "Ah wyrmlings, i crack myself up.", she puts her hands on her hips, "While i'd love to go with you 
+                    and stick one to Dex, First i need some proof that you lot are as capable as you say", the orc woman starts using the morningstar
+                    that shes holding to scratch a sudden itch on her head, Then her eyes grow big from a sudden realizations. "I know! you can enter
+                    the Tournament! if you perform well, ill join you pipsqueaks on your adventure!". she laughs bolsterously, "Ah! if you managed to beat
+                    us, ill even consider joining DragonWatch".
 
-        DC - Investigation: mug of liquid
 
-            10 - 
+                DC - persuasion/Intimidation: 
 
-        DC - medicine: mug of liquid
-
-            15 - 
+                    25 - She comes with the party, without having to perform in the Tournament.            
 
         Requirements: 
-            - finish Dialog with Alaan
+            - finish Dialog with Roxarra and the complete Gendricks Tournament
 
         Rewards:
-            - 
+            - 5gp each for winning (else 2gp runner up)
+            - 1x scroll coupon
 
 Act 5: The Plan at DragonWatch
 

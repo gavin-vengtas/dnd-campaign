@@ -1,0 +1,33 @@
+Description:
+
+    Name: Baris HammerForge
+
+    Alignment: Neutral 
+
+    Race: Mountain Dwarf
+
+    Class: paladin
+
+    Character Description:
+
+        
+
+    Shop Description:
+
+        
+
+    NPCs:
+        Baris:
+
+        Armorer assistant:
+        
+    Services:
+        - Armor repair
+            
+
+        - sales
+            
+
+        - refitting
+
+            
