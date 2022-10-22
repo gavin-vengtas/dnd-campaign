@@ -8,7 +8,13 @@ DragonWatch Guild:
 
     Description:
 
-        test
+        DragonWatch is an old Guild, said to be the first in GodFell, perhaps even all of Gallinor. It was founded during the 2nd age, and its founders was directly responsible for the 
+        death of the god Leira during the Soul Wars. In the 3rd age, DragonWatchs power grew to its peak during the 9 Wars of conquest. But their power has dwindled as of late. Dark
+        forces work amongst the shadows to ensure the demise of the once great guild.
+
+        The inside of DragonWatch is cozy and warm, albeit dusty. The floor is made of hard dark oakwood and the walls are lined with full bookshelves and ornaments collected over an age.
+        A fireplace sits at the end of the room at the right hand corner surrounded by several lounge chairs, and candle holders line the walls that hold 2 candles each. A small yellow bird
+        sleeps silently on a perch near the window at end of the room where the dark red curtains are almost always drawn. The room smells like coffee and old books.
 
     NPCs:
 
@@ -21,10 +27,10 @@ DragonWatch Guild:
     Roles:
 
         Guildmaster:
-            -
+            - Vilsara
 
         Quartermaster:
-            -
+            - 
 
         Cook:
             -
@@ -36,10 +42,12 @@ DragonWatch Guild:
             -
 
         Healer:
-            -
+            - Raya
 
         Members (Fighters):
-            -
+            - Sectre
+            - Shaw
+            - Relix
 
     
     Main Quests:

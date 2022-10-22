@@ -288,7 +288,7 @@
             Rewards:
                 - 
 
-4. Necros Challenge (Fight Pits):
+4. Necros Challenge (Gendricks Tournament):
 
     Giver:
         - Baris HammerForge (around GodFell)
@@ -405,13 +405,13 @@
 
     Act 4: Adventurers VS GodFell Champions
 
-5. Treasures of GodFell dungeons:
+5. Treasures of GodFell Catacombs:
 
     Giver:
         - Alaan looselock (around GodFell)
 
     Requirements:
-        - find Titan
+        - find and return Rakas body
     
     Rewards:
         - 5gp per character

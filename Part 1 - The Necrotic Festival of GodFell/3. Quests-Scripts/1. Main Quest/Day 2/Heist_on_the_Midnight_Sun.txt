@@ -2,10 +2,11 @@ Intro:
 
     Ages pass on the material plane. Old rivers dry out and new rivers form, mountains grow and crumble as
     the passage of time passes. In this age, which some call "the age of legends" or the 4th age to some 
-    scholars, 5 unlikely adventurers find themselves licking their wounds inside the old Guild of Dragonwatch.
+    scholars in the world of Gallinor, 5 unlikely adventurers find themselves licking their wounds inside the old Guild of Dragonwatch.
 
     In the age of legends, it is said that heroes were forged in mighty guilds such as these. Dragonwatch, sometimes 
-    referred to as the first guild, was once home to the mightiest heroes known to the world of valinor. Powerful Slayers of Gods, Demons, Angels, abominations and mortals alike. ALL beings met the crosshairs of the once great dragonwatch, now only a measly shadow of its former glory. 
+    referred to as the first guild, was once home to the mightiest heroes known to the world of valinor. Powerful Slayers of Gods, Demons, Angels, abominations and mortals alike. 
+    ALL beings met the crosshairs of the once great dragonwatch, now only a measly shadow of its former glory. 
 
     On this day, the 2nd day of Necros in the 4th century of the age of legends (The year 412) the wise wizard Vilsara,
     guildmaster of Dragonwatch, plots the return of her guilds glory. 
@@ -55,7 +56,7 @@ Act 1: Vilsaras offer
                 (Whats next?)
                 - "The bruha Dextra of Midnight Sun, she will know pain far beyond that of any of my children", the candle fires start to flare up again, "but first she will lose everything".
                     "Itova iri [Draconic - 'loved ones'], our first mission is to infiltrate Midnight Sun, we will raid her vaults and take back what is ours, and perhaps more". she smiles and 
-                    looks up with fire in her eyes. "But first, we'll need the help of some specialists.", the old woman stares into the fire, lost in thought, and oulling out s poker to stoke its flames."a halfling,
+                    looks up with fire in her eyes. "But first, we'll need the help of some specialists.", the old woman stares into the fire, lost in thought, and pulls out a poker to stoke its flames. "a halfling,
                     a tiefling and an orc". She turns around to face the party, her tears now replaced with a grin of excitement. "Oh how exciting! We've not done a heist since
                     me and the boys nicked the treasures in king aslims citadel in the north!".
 
@@ -103,7 +104,122 @@ Act 1: Vilsaras offer
 
 Act 2: At the Dancing Titan
 
-    b
+    The dancing titan is lively on the morning of the 2nd day of the festival, many of the patrons wear facepaints and strange outfits
+    that pay homage to the dead. Bar maidens rush to and from the bar dodging customers and our adventurers in an effort to serve there
+    orders.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Lessa Landell(Bartender):
+
+                [After Seeing Party]
+                    (in a rush) "Ah! if it isnt our first nights Champions! what can i get you?", She reaches under the bar to pull out some bottles
+                    and poor some mead for the maiden waiting eagerly at the end of the bar with her tray.
+
+                (have your seen alaan?)
+                    (looking puzzled) "alaan? you mean looselock? thats the old drunk right there", she gestures toward the end of the bar toward an 
+                    old halfling that seems to be talking up a very tall and attractive half elf woman dressed in red, who seemed nearly three times his size.
+
+            Alaan looselock: 
+                
+                [After being approached]
+                    (talking to the Half-Elf woman) "S-so anywaysh, me and the team are up in Ashlims Citadel. Baelor and Vaan are out cold and *hic* Villysh 
+                    misshing", The halfling notices the adventurers and cuts his story short. "My apologies sweetheart, it seems i have business." The half 
+                    elf woman leans in and whispers into his ear, kisses him on the cheek then leaves. 
+
+                    "Ah, your with villy arent ya? troubling news about yer guild aye ladsh? troubling indeed.", he turns to the bar to finish his drink. 
+                    "Villy tellsh me that sticky witch has taken some important things from her. thingsh *hic* she needs returned for the sake of her guild.
+                    I CAN help. but first i need you to help me.".
+
+                    The old halfling goes silent for a moment, pondering or perhaps recalling an event that happened long past. "Its my brother, i need his body."
+
+                    The greying thief tells the party about the time he went on a heist with his brother Rada many years ago, that involved going into the Catacombs under the city.
+                    while making their escape, they were attacked by ghastly creatures. Alaan managed to escape but his brother never did.
+
+                    "I've never gone down into the Catacombs since... (he sighs) find my brother, please, so that I may finally put him to rest. I'll even pay yee fer
+                    the trouble."
+
+                    he hands the party a pale blue orb. "This is enchanted to find our clans badge, it'll grow warm when your close to...", he pauses for a moment then sighs, "to
+                    his body."
+
+                    DC - persuasion: 
+
+                        20 - Alaan agrees to come without completion of the sidequest, allows for completion on another day.
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 2gp for each party member if they take up his request
+
+Act 3: Serafias Stowaway
+
+    Crowds buzz in a jolly mood outside Serafias Store, the various aromas from the different restaraunts on the bridge makes the mouth
+    of the party members that enter the store water.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Serafia: 
+                - (in a melocholly tone) "well if it isnt my favorite champions.", she walks over to vollert and peers at him through her large spectacles that
+                seemingly magnify the size of her eyes and smiles, "Im glad to see youre all in one piece. A little yellow bird told me that youve decided to join
+                DragonWatch, that fills me with so much joy! oh Vilsara was in need of a fresh pair of muscle to help the guild". Her excitement quickly dwindles, and 
+                you can see sadness building behind her oversized spectacles.
+
+                *2 thugs enter the store, look around briefly, then rush out*
+                
+                [before the party leaves]
+                "Wait! Theres a woman here, one who needs your help! Please! Come with me.". She takes the party to the back of the store, and down some stairs to a hidden
+                room under the staircase. The room is adorned with a small window that overlooks the river that runs under the bridge, a light breeze blows through the 
+                curtain and a on the bed in the middle of the room sat a young bald orange tiefling woman covered in bandages, the woman sat upright with a sudden shock 
+                when she heard the door open, almost as if to flee. She had a single green eye and her other eye was greyed out, she was also missing several fingers on 
+                both hands and a leg. Her eyes seemed baggy, as if she had not slept and had been weeping.
+
+                Serafia moved slowly toward the girl, then sat beside her and gently stroked her hand. "Her name is Lunara. That spineless no good witch and her cretins from Midnight Sun
+                did this to her. DEXTRA! There arent enough magics in the realm to protect you from what im going to do you!", the old woman took a breath to try and fight back the tears 
+                that was building in her eyes and regain her composure. "The barbarians cut off her tongue so she couldnt talk... cut off her fingers so she couldnt weave magics... cut off
+                her legs so she couldnt run... they defiled her... did things to that would make bhaal himself proud". The old woman spat on the floor.
+
+                "Please, escort the child back to DragonWatch. Vilsara must know whats become of her daughter. Dextra has men looking for her. be careful. Also, im afraid one of you wll have
+                to carry her"
+
+                * Note: Person carrying has disadvantage on attack rolls *
+                
+        
+        Encounter:
+            Bridge:
+                2x Cult Fanatic
+                2x Bandits 
+
+            GodFell:
+                1x Veteran
+
+        Requirements: 
+            - Escort Lunara back to Dragonwatch
+
+        Rewards:
+            - 2gp per member
+            - 2x scroll coupons
+
+
+Act 3.1: The dragon and the demon
+
+    The doors of Dragonwatch burst open as the party quickly rushes Lunara to the guildmaster
 
 
     Music:
@@ -116,64 +232,39 @@ Act 2: At the Dancing Titan
 
         Dialog:
             Vilsara: 
-                - 
+                - (Excitedly rushes down the stairs) "Oh how wonderfuld, I had sensed that one of my daughters have finally returned! Lunara im so happ-", The Old
+                    wizards words trailed off when her eyes met the new form of the tiefling that had onced called herself a champion of DragonWatch. The little yellow 
+                    bird sitting by the window was startled when the fires around the room seethed and sparked and burned a sudden and prolonged white hot color, as if heat of 
+                    the nine hells itself was seaping up from the floor boards. 
+
+                    The old womans fingers twitched subtly, as if something within her had finally snapped. she slowly approached the limp tiefling, and placed a gentle hand on her cheek.
+                    "Itova ir, everything will be okay. Every scar that that scaleless bruha has placed you will be returned to her ten fold.", She waved her fingers as weaving some unseen thread
+                    and whispered a few words. a doorway appeared around the tiefling, and then she had disappeared through it. "I'll send for Vasha, he may be able to restore her... in time...".
+                    The old woman wiped away a tear.
+
+                    "So it seems the warlock seeks a most painful and prolonged death", she sighs, "Itova Iri, find the rest of the companions for this task. there are scrolls on the table, they should help.
+                    I feel that i must rest for a bit..."
                 
-        Actions:
-            Drink the liquid:
-                - 
+        
+        Encounter:
+            Bridge:
+                2x Cult Fanatic
+                2x Bandits 
 
-        DC - Investigation: mug of liquid
-
-            10 - 
-
-        DC - medicine: mug of liquid
-
-            15 - 
+            GodFell:
+                1x Veteran
 
         Requirements: 
-            - finish Dialog with Alaan
+            - Escort Lunara back to Dragonwatch
 
         Rewards:
-            - 
-
-Act 3: Below GodFell Bridge
-
-    
-
-
-    Music:
-        - 
-
-    Map:
-        -
-
-    Act Milestones:
-
-        Dialog:
-            Vilsara: 
-                - 
-                
-        Actions:
-            Drink the liquid:
-                - 
-
-        DC - Investigation: mug of liquid
-
-            10 - 
-
-        DC - medicine: mug of liquid
-
-            15 - 
-
-        Requirements: 
-            - finish Dialog with Alaan
-
-        Rewards:
-            - 
+            - 2gp per member
+            - 2x scroll coupons
 
 Act 4: Gendricks Tournament
 
-    
+    Crowds gather and cheer at the stadium in the evening, eagerly awaiting the gory and brutal battles of tonights Tournament of champions.
+    The Tournament of champions is held every year during Necros, and features Roxarra and her family as the running champions for the last 6 years.
 
 
     Music:
@@ -185,7 +276,7 @@ Act 4: Gendricks Tournament
     Act Milestones:
 
         Dialog:
-            Vilsara: 
+            Roxarra: 
                 - 
                 
         Actions:
