@@ -300,7 +300,12 @@ Act 4: Gendricks Tournament
 Act 5: The Plan at DragonWatch
 
     
-
+    Sounds of rain hitting the glass panels of the window starts to build up as everyone is gathered in the common room, the air
+    grows cold and the sounds of thunder can be heard in the distance. Around the room sits the current members of Dragonwatch and
+    a few guests. Vilsara Stands by the window next to the yellow bird on its perch, she stares at the rain clouds silently, lost in thought.
+    Raya and Roxara sitting on the couch and eagerly Listening to Alaan regail a tale about the time Vilsara locked lips with king Trigons father
+    at his wedding ceremony. Lunara sat silently cross legged on the floor near the fireplace gently stroking the head of the panther 
+    laying next to her.
 
     Music:
         - 
@@ -311,30 +316,49 @@ Act 5: The Plan at DragonWatch
     Act Milestones:
 
         Dialog:
-            Vilsara: 
-                - 
-                
-        Actions:
-            Drink the liquid:
-                - 
 
-        DC - Investigation: mug of liquid
+            Alaan: 
 
-            10 - 
+                - [Gingerly] "Aye! sho villy kisses Trigons father, mind you this is years before he was born, on his wedding day, and at the 
+                    ceremony, and in front of the Queen no less!" The silver dragonborn and the orc women both gasped in unison and turn to look
+                    at the silver haired woman silently standing by the window in disbelief.
 
-        DC - medicine: mug of liquid
+            Vilsara:
 
-            15 - 
+                (As the players step into the room)
+                - [Not noticeing Alaans story] Still staring outside, she says alloud "It seems our champions have returned, welcome back Itova
+                    iri, I have much to thank you for. For bringing back my daughter. and soon for returning to me my guild". The old woman pauses
+                    for a moment, then turns to face the room. "Itova Iri, it is time to tell you the next step".
+                    
+                Vilsara goes on to tell the party that breaking into the vault under Midnight Sun will first require 2 sets of keys. 
+
+                The First Key must be stolen from the Midnight Sun Jailer, during the day, before the heist begins.
+
+                The Second Must be stolen from Dextras Quarters within the HQ above and it will unlock the jail/torture chamber.
+
+                then you must find The Guildmaster of Midnight Sun, Festus ~ whose been missing for many months who will be needed to unlock the vault.
+
+                Roxarra will help you get around Midnight Sun when youve infiltrated it. And will clear out the vault after youve broken into it.
+
+                Alaan will help break into the Vault once its located and the dungeon seems safe.
+
+                Lunara describes the vault as well as other features to look out for. 
+                she tells you to look out for the jailer during the festival.
+                She tells you that their have been strange creatures lurking under the dark guild.
+
+                Jailer: Imis: Female Elf Fighter, Evil. Imis has cropped copper hair and bright amber eyes. 
+                She wears chain mail and wields a short sword. Imis is thoughtful and guarded. She Frequents Godfell bridge.
 
         Requirements: 
-            - finish Dialog with Alaan
+            - finish Dialog with Vilsara
 
         Rewards:
             - 
 
 Act 6: Daylight Robbery
 
-    
+    The sun shines brightly with some large clouds floating in the air, large crowds walk to and from the godfell town across the bridge.
+    The aromas of various pop up food stalls waft through the area as the players make their way accross the bridge.
 
 
     Music:
@@ -346,8 +370,47 @@ Act 6: Daylight Robbery
     Act Milestones:
 
         Dialog:
-            Vilsara: 
-                - 
+            Emir: 
+
+                Emir wears the key to Midnight suns Jail around her neck. she is a Female Elf Fighter, and Evil. Shes loud and bolsterous
+                and enjoys avoiding the consequences of her actions.
+
+                - if incapacitated through violent means, her friends/followers around the bridge attack and security around Midnight Sun is 
+                    heightened on the night of the heist.
+
+                - Stealing from her and getting caught results in extra security within Midnight Sun
+
+                - incapacitating her here removes her from the dungeon
+
+                - failing to incapacitate her results in her being in the dungeon and looking for her keys.
+
+                - failing to steal or incapacitate her results in her being in the dungeon with more enemies
+
+                She spends the day Frequenting many stalls and shops on the Bridge.
+
+                shops Frequented:
+
+                    - 2x food stalls
+
+                        Emir frequents a local stall for her meals. and another stall for deserts.
+
+                    - 1x gear store
+
+                        She visits the local gear stall to maintain her gear.
+
+                    - 1x shady Character
+
+                        She speaks to a shady Character near Godfell gates
+
+                    - 1x bridge edge
+
+                        She peers over the bridge and examines the water for a while
+
+                    - 1x Serafias Scroll Shop
+
+                        She stops by Serafias scrolls.
+
+
                 
         Actions:
             Drink the liquid:
@@ -362,10 +425,13 @@ Act 6: Daylight Robbery
             15 - 
 
         Requirements: 
-            - finish Dialog with Alaan
+            - Steal the Keys from Emir.
+
+            
 
         Rewards:
-            - 
+            - Jailers Key
+            - 200xp
 
 Act 7: Distraction at Lake GodFell!
 
@@ -404,8 +470,9 @@ Act 7: Distraction at Lake GodFell!
 
 Act 8: Beneath the Midnight Sun
 
-    
-
+    The players make their way into the Catacombs under godfell, led by Alaan, he leads the party down what seems like a maze of 
+    narrow passages and life threatening obstacles and eventually arrives at gate barred by some boulders. With little effort, alaan
+    unlocks the lock on the large gate and signals the party to help him move the boulders.
 
     Music:
         - 
@@ -416,12 +483,131 @@ Act 8: Beneath the Midnight Sun
     Act Milestones:
 
         Dialog:
-            Vilsara: 
-                - 
+            Alaan: 
+                - (Calmy)"Aye, I'll leave you lot here for now. my old bones might not be able to keep up in combat if it comes down to it.
+                when youre sure the area is clear, signal for me and ill come unlock that safe."
                 
-        Actions:
-            Drink the liquid:
-                - 
+        Dungeon:
+
+            Other enemies:
+
+                CR1:
+
+                CR2:
+
+
+            1:
+                You push the large boulders aside and climb through, and find yourselves in a large corridor. The corridor is lit by rows of 
+                sconses on the dungeon walls and seems to lead to a wider area.
+
+            2:
+                You find yourselves in a large circular room with a square tiled surface in the middle. The tiles seem to have 
+                5 rose like symbols spread out in a cross. the east is a wall with an Iron gate, the south east corner seems to lead into a
+                passageway aswell as the southwest corner and The east wall.
+
+                Puzzles:
+                    - In the center of the room lies the entrance to the vault, to enter you require the blood of the Guildmaster located in
+                        the prison as well as the vault key located in Dextras room
+
+                Ability Checks:
+                    
+                    Perception:
+
+                        17 - players will find an indentation on the north wall leading to a secret passage.
+
+                    
+
+            3:
+
+                players find themselves in a Pantry filled with barrels and crates of various guild supplies.
+
+                Encounter: [Easy]
+                    1x Drow scout
+                    1x thug
+
+            4: 
+
+                players find themselves in a lodging room fully occupied with enemies. the enemies seemm to be slightly experienced and getting ready for guard duty.
+
+                Encounter: [Medium]
+                    2x Thugs
+                    1x Drow scout
+
+                Rewards:
+                    - prison key
+                    - 50gp each
+
+            5.
+
+                 players find themselves in a lodging room fully occupied with enemies. the enemies seem to be new recruits.
+
+                Encounter: 
+
+                    2x Apprentice wizards
+                    1x Spy
+
+                Rewards:
+
+                    - 25gp
+
+
+
+            6.
+
+                the secret room is full of kidnapped npcs kept in a sleeping state from a spell, the npcs are of all shapes and sizes
+                but mostly women.
+                
+
+            7.
+
+                the ground floor seems abuzz with activity, many guild members as well as guests seems to be on this floor.
+
+                1. the basement entrance/Bathroom:
+
+                    the basement 
+
+                        Dialog:
+
+                            Roxarra: 
+
+                                - [Confidently] "" 
+
+                2. main lobby
+
+                3. Kitchen
+
+                4. Lounge/Dining room    
+
+
+            8.
+
+                The second floor is much quieter, theres no one on this floor at this time, save for some loud snoring from one of the rooms.
+
+                1. Dextras room
+
+                2. 
+
+                3.
+
+                4. 
+
+                5.
+
+            9.
+
+
+            10.
+
+                The Prison has a fould stench coming from it, as the party enters, the eerie feeling that something isnt right starts
+                to loom in the air. A faint buzzing sound can be heard but from no discernable direction.
+
+                Encounters:
+
+                [Easy]
+                [Medium]
+
+            
+
 
         DC - Investigation: mug of liquid
 
@@ -432,10 +618,10 @@ Act 8: Beneath the Midnight Sun
             15 - 
 
         Requirements: 
-            - finish Dialog with Alaan
+            - find and enter the vault
 
         Rewards:
-            - 
+            - 400xp
 
 Act 9: The Vault
 
@@ -451,12 +637,21 @@ Act 9: The Vault
     Act Milestones:
 
         Dialog:
-            Vilsara: 
-                - 
+            Dextra: 
                 
-        Actions:
-            Drink the liquid:
-                - 
+                After the players
+                
+       11.
+
+                Encounters:
+                    [Scripted]
+                    1x Dextra (Githyanki star seer)
+
+                    [Deadly] 
+                    
+                    1x Giberring Mouther
+                    1x psurlon
+
 
         DC - Investigation: mug of liquid
 
@@ -467,15 +662,17 @@ Act 9: The Vault
             15 - 
 
         Requirements: 
-            - finish Dialog with Alaan
+            - Defeat the creatures in the vault
 
         Rewards:
-            - 
+            - 3x Dragonwatch Bracelets
+            - 2000gp each
+            - 1000xp
 
 Act 10: Champions of Dragonwatch
 
     
-
+    
 
     Music:
         - 
@@ -485,9 +682,11 @@ Act 10: Champions of Dragonwatch
 
     Act Milestones:
 
-        Dialog:
-            Vilsara: 
-                - 
+        Encounters:
+            [Easy]
+
+
+
                 
         Actions:
             Drink the liquid:
