@@ -728,7 +728,7 @@ Act 8: Beneath the Midnight Sun
                     eating at the tables. some of the patrons run up to Roxarra, begging for her autograph, she abliges and then waves them off. the air in here is thick with 
                     aromas of food and pipe smoke.
 
-                     Dialog:
+                    Dialog:
 
                             Roxarra: 
 
@@ -804,7 +804,7 @@ Act 8.1: The Prison
 
     Encounters:
 
-        Assuming party level 3
+        (Assuming party level 3)
 
         [Easy]
 
@@ -824,7 +824,8 @@ Act 8.1: The Prison
 
         1:
 
-            You find yourselves at the bottom of the staircase, and before you is a dark hallway, just barely bright enough to see clearly.
+            You find yourselves at the bottom of the staircase, and before you is a dark hallway, just barely bright enough to see clearly, though you
+            can make out what seems to be a trail of blood of blood and maggots leading off somewhere to the north.
 
 
             Approaching room 2:
@@ -838,7 +839,7 @@ Act 8.1: The Prison
                 The stench grows stronger as you walk passed/approach the doorway, various sounds echoing the screams and despair of people and 
                 the unattural bellows of some unseen creatures can be vaguely heard as well.
 
-        2: 
+        2:
             This medium sized room is filled shelves and cupboards as well as manequins that seem to hold a handful of corroded suits of armor.
 
             Apart from the dust and cobwebs, it seems to be relatively clean.
@@ -894,7 +895,7 @@ Act 8.1: The Prison
 
             Approaching room 3:
 
-                You stand before a locked door that seems to be reinforced. (any attempt to open it without the key found in )
+                You stand before a locked door that seems to be reinforced. (requires Key/Ability check)
 
         3:
             (unlocking requires a crimson key or DC check)
@@ -972,11 +973,116 @@ Act 8.1: The Prison
 
         4:
 
+            The trail of blood and maggots lead you into a large dark room, there appears to be various broken tables and chairs flung about as
+            well as many different small bones and moldy fruit. 
+
+            Encounter:
+
+                [Medium]
+
+                    the sound of scratching can be heard all around you, and several creatures no taller than
+                    your knees seem to emerge from the darkness. The creatures features seem to represent the outside of a spider with 6 chitin legs and 2 chitin arms,
+                    brown-red abdomens covered in hair and its head and neck are that of an eels. Without warning, the creatures lunge at the players.
+
+
+                    Creatures:
+
+                        5x Neogi Hatchlings
+
+                    Rewards:
+
+                        - None
+
+            DC challenges:
+
+
+
+            Loot:
+
         5:
+
+            You find yourselfs in a medium sized hallway, the end of it is covered in darkness and the sounds of meat being ripped from flesh and
+            bones breaking can be heard coming from the other end of the hall as well as the sound of chittering and shrieking.
+
+            Encounter:
+
+                [easy]
+
+                    2 small creatures can be seen feasting on the corpse of a child with auburn hair, the childs corpse twitches and moves as
+                    the creatures feast and rip flesh and organs from her body. the creatures are waist tall and have what looks like
+                    bristles, spines and thorns protruding from their skin, they have a permanent lipless grin on their faces and have long fingers
+                    with broken and dirty nails at the end.
+
+                    The sound of the creatures chittering and shrieking cause you to see spots of flashing colors and brief hallucinations, and triggers
+                    a wave of hopelessness on the players.
+
+                    (unless stealthed, the creatures notice the party immediately and attack)
+
+                    Creatures:
+
+                        2x Star Spawn Gru
+
+                Rewards:
+                    - None
 
         6:
 
+            You stumble upon another dead end. This room is filled with an excess of blood but is absent of any corpses. the walls and floor are covered
+            in symbols drawn from blood that fills you with a sense of dread and uneasiness. in the middle of the room sits a giant symbol and large key can be seen sitting
+            along the edge of it.
+
+             Encounter: (After the key is picked up)
+
+                [Medium]
+
+                    The large blood symbol in the middle of the room starts to glow bright red, and the lights around you start to fade as shadow encompasses
+                    the room, after some time, a creature starts to seep up from the glowing symbol, seemingly from
+                    nothingness. the ground around it starts to putrify and it lets out mind numbing noise that blurs you vision when you get to close.
+                    it is an amorphous mass of mouths and eyes that propels itself by oozing forward, fastening several mouths to the ground and pulling its bulk behind.
+                    its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. 
+                    his cacophonous gibbering overcomes the senses.
+
+                    Creatures:
+
+                        1x Gibbering Mouther
+
+                Rewards:
+                    - None
+
+            loot: 
+
+                - 1x Crimson Key
+
         7:
+
+            You find yourself in a dead end filled with broken boxes and with several bloated, rotting corpses. The corpses are all covered in mounds of
+            small round sticky substances.
+
+            Encounter:
+
+                [Medium]
+
+                    Several creatures like the ones from the previous room attack.
+
+                    Creatures:
+
+                        8x Neogi Hatchlings
+
+                    Rewards:
+
+                        - None
+
+            DC challenges:
+
+                Boxes:
+
+                    Investigation (DC - 13)
+
+                        You find 2x potion of healing amongst the broken boxes
+                
+            Loot:
+
+                - 50gp and 1x potion of healing can be found on the corpses
 
         8: 
 
@@ -986,14 +1092,74 @@ Act 8.1: The Prison
 
         9:
 
-            The concrete man, believes he will live forever, believes hes slowly turning to stone.  (SCP-014)
+            You open the door to find a white room, completely void of any filth, blood or maggots. not even a speck of dust. In it sits a woman on a chair.
+            You recognise her to be Emir, the Jailor. She seems to be completely still, but still breathing. the woman quickly opens her eyes, and her eyes dart accross the room, looking
+            for something unseen. She starts to babble in a language not recognised, while she also begins to sob and cry. After some time she stops, and addresses the party through
+            the tears.
 
+            Dialog:
+
+                Emir: 
+
+                    - [Sobbing] "Please! Please free me! I'll do anything!", she coughs up a small maggot, clearly seen against the contrast of the bright
+                    white floor and walls, "Please! I've only done as i was told!", small pustules start to develope everywhere on her skin and eventually grow
+                    into large bumps, Shortly after, maggots start to burst forth from them and the clear transparent tears that ran down her face start to turn
+                    deep crimson red in color. The pustules grow ever more, her body starts to bloat and deform, growing to an enormous, unattural size. blood starts
+                    to seep from the pores on her skin that has now expanded and cracked under the pressure of the bloating. within a moment, her body explodes, spraying
+                    the room with blood, worms and pieces of the former jailer.
 
         10:
 
-            The room is filled with piles and piles of corpses
+            The room is filled with piles and piles of corpses of every kind. Men, women, children. All of them seem to have had their flesh ripped from their bones,
+            and lie in mangled positions, most seem to be missing various body parts. Several creautures spiky lipless creatures seem to feasting on some fresh corpses
+            nearby. But they are too preoccupied to notice the party.
+
+            Encounter:
+
+                [Medium]
+
+                    Several creatures like the ones from the previous room attack.
+
+                    Creatures:
+
+                        6x Star Spawn Gru
+
+                    Rewards:
+
+                        - None
+
+            DC challenges:
+
+                Boxes:
+
+                    Investigation (DC - 13)
+
+                        You find 200gp worth of gold amongst the rotting corpses.
+                
+            Loot:
+
+                - None
 
         11:
+            This room is filled with just a handful of corpses, these ones seem to be relatively fresh, and some seem to bear the symbols of those belonging
+            to midnight sun. the room is otherwise empty.
+
+            DC challenges:
+
+                Corpses:
+
+                    Investigation (DC - 12):
+
+                        Reveals a note amongst the corpses, it reads:
+
+                            "Dex, i left the armory key in the portal room. The password for the silver chest is `Ul'wuth Dar`. Give em Hell."
+
+                    Rewards:
+
+                        - none
+
+            loot:
+
 
         12:
 
