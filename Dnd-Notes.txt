@@ -56,3 +56,17 @@ Heriarchy:
     - Vilsara
     - King Trigon Slaymont
     - Queen Leiah Slaymont
+
+scaling and balancing encounters with dragon summons
+
+    dragon summons are treated as additional PCs, the level equivalents are calculated as follows:
+
+    wyrmlings   - 1x level 5 PC
+    Young       - 1x level 17 PC
+    Adult       - 3x level 15 PC
+    Ancient     - 3x level 20 PC
+
+    therefore a party of 3 level 3 characters with 3 wyrmlings averages to a level 4 ((3+3+3+5+5+5)/6)
+    party of 6 
+
+    at average level 40 (3x level 20 PCs with 3x Ancient Dragons) the party is treated as a party of 12 level 20 PCs

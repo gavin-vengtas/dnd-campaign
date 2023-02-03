@@ -1,0 +1,1168 @@
+Intro:
+
+    Ages pass on the material plane. Old rivers dry out and new rivers form, mountains grow and crumble as
+    the passage of time passes. In this age, which some call "the age of legends" or the 4th age to some 
+    scholars in the world of Gallinor, 5 unlikely adventurers find themselves licking their wounds inside the old Guild of Dragonwatch.
+
+    In the age of legends, it is said that heroes were forged in mighty guilds such as these. Dragonwatch, sometimes 
+    referred to as the first guild, was once home to the mightiest heroes known to the world of valinor. Powerful Slayers of Gods, Demons, Angels, abominations and mortals alike. 
+    ALL beings met the crosshairs of the once great dragonwatch, now only a measly shadow of its former glory. 
+
+    On this day, the 2nd day of Necros in the 4th century of the age of legends (The year 412) the wise wizard Vilsara,
+    guildmaster of Dragonwatch, plots the return of her guilds glory. 
+
+
+Act 1: Vilsaras offer
+
+    beams of sunlight pierce the drawn dark maroon curtains of Dragonwatch and lit the particles of dust suspended in the air,
+    lighting the dusty room that now housed our adventurers with a dim warm, cozy sunlight. The old wizard vilsara sits down with the party
+    to explain her plans.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - (Expectantly) "Come now, im sure you all have many questions, but first we must tend to you. Coming back from death weighs heavy 
+                    tolls on the body." she looks on at Malfeasonce with sad eyes and a warm, empathetic smile, then waves her hand while making complex
+                    light gestures with her fingers. A sudden seam forms near or around the air near each player, seemingly tearing at reality and a large 
+                    mug of liquid falls out. the liquid is hot and has a dark milk like brown color, its frothy, and a has very sweet aroma. 
+                    "Itova iri [Draconic - 'loved ones'], this I received in my travels beyond IOs tear, from a community of necromancers hidden away in the snow woods.
+                    Drink. It will relieve the stress of rebirth on your bodies."
+
+                (Dragons returning?)
+                - 
+
+                (Why are the adventurers here?)
+                - (she takes a deep breath, the tips of the lit candles around the room seem to pull toward her, then flairs up as she exhales)
+                    "Right, lets get to it.". She stands up, "Itova iri [Draconic - 'loved ones'] a great scheme is afoot. It appears that there are forces at play that are working hard to
+                    see the downfall of Dragonwatch, and as it appears, the lot of you as well. In recent years, our numbers have been hunted out and killed and the reach of Dragonwatch over
+                    Zamarok has dwindled." the once dry and dusty wooden floor where she stood now grew moist with drops of tears. (she sighs) "My children are now mostly gone, save for
+                    a few special souls.", she gives a sad smile and gestures toward Raya, who sat silently on the floor near the fireplace, her long silver tail wrapped 
+                    around her legs.
+
+                    "You lot are being targeted, by the same forces that slaughtered my children. But not for much longer.". she turns to face the party, the candles around
+                    the room burning violently, almost hissing. "Join Dragonwatch, there is room for all of you. And I will mould you and give you the power to seek out
+                    and smite the mightiest of enemies. whether it be mortals or gods.", the candles around the room seemed to die down to their natural states.
+                    "Help me build our ranks once more and restore honor to the halls of DragonWatch. And in return, you shall know power the likes of which Zamarok has not seen
+                    in 3 ages."
+
+                (Whats next?)
+                - "The bruha Dextra of Midnight Sun, she will know pain far beyond that of any of my children", the candle fires start to flare up again, "but first she will lose everything".
+                    "Itova iri [Draconic - 'loved ones'], our first mission is to infiltrate Midnight Sun, we will raid her vaults and take back what is ours, and perhaps more". she smiles and 
+                    looks up with fire in her eyes. "But first, we'll need the help of some specialists.", the old woman stares into the fire, lost in thought, and pulls out a poker to stoke its flames. "a halfling,
+                    a tiefling and an orc". She turns around to face the party, her tears now replaced with a grin of excitement. "Oh how exciting! We've not done a heist since
+                    me and the boys nicked the treasures in king aslims citadel in the north!".
+
+                    Raya looks up in disbelief, her silver scaled face shone a red tinge of embarresment, "Mother!".
+
+                    "Oh come daughter, by now even you should know that not all of our endeavers over the ages have been... Lawful", she smiles innocently.
+
+                (finishing up)
+                - "First i suggest you find Alaan looselock the halfling. the old ankle biter has a knack for stealthy missions like these. if were to take everything back from Dextra, he'll know where to start. You'll find
+                    the halfling drunk at 'The dancing titan'", The old woman walked up to the fireplace and grabbed a small portrait off the mantle. "Next you'll need to keep an eye out for this young tiefling woman", She
+                    hands the party the portrait, which is painted in the image of a sleek looking orange tiefling woman with green eyes and red hair flowing down to her waist. "Lunara Hellborne was once of our ranks, till she
+                    left to work for Midnight Sun, ammicably of course... i've heard rumors that she's recently fallen on bad terms with Dextra and has gone into hiding. Find her. Bring her home. No doubt she could help our cause..."
+                    She shakes off the worried look on her face "...and lastly we'll need an orc woman, Roxarr Fengarr. her strength is unmatched in GodFell. I happen to know that she'll be defending her title this evening at the trials
+                    of Gendrick. do be sure to speak to her too."
+
+                    She turns to Raya, "Itova ir [Draconic - 'loved one'], you must travel into the city for supplies to accomodate our new residents". Raya curtsies toward Vilsara, "It shall be done mother."
+        
+        Actions:
+            Drink the liquid:
+                - the drink is perfectly sweet and envokes the taste of what can be described as moist chocolate cake, you feel 
+                    the warm liquid seeping down to your empty stomach, seemingly making it feel full once more. a warmth starts to fill
+                    your body. HP restored and All debuffs/afflictions are removed. Roll a 1d6 for any of the following benefits:
+
+                        1. Nothing
+                        2. Advantage on next Intimidation/persuasion check
+                        3. 10% off of store items for the day
+                        4. Advantage on next hit
+                        5. Inspired
+                        6. Inspired + add 1d6 necrotic damage on next 3 attacks
+
+        DC - Investigation: mug of liquid
+
+            10 - You recognise the liquid to have magical properties.
+            20 - You recognise the liquid to be a form of Necro Pura, an extremely rare and potent priceless medicine.
+
+        DC - medicine: mug of liquid
+
+            15 - You recognise the liquid to be a form of Necro Pura, an extremely rare and potent priceless medicine.
+
+        Requirements: 
+            - finish Dialog with Vilsara
+
+        Rewards:
+            - A Guild
+
+Act 2: At the Dancing Titan
+
+    The dancing titan is lively on the morning of the 2nd day of the festival, many of the patrons wear facepaints and strange outfits
+    that pay homage to the dead. Bar maidens rush to and from the bar dodging customers and our adventurers in an effort to serve there
+    orders.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Lessa Landell(Bartender):
+
+                [After Seeing Party]
+                    (in a rush) "Ah! if it isnt our first nights Champions! what can i get you?", She reaches under the bar to pull out some bottles
+                    and poor some mead for the maiden waiting eagerly at the end of the bar with her tray.
+
+                (have your seen alaan?)
+                    (looking puzzled) "alaan? you mean looselock? thats the old drunk right there", she gestures toward the end of the bar toward an 
+                    old halfling that seems to be talking up a very tall and attractive half elf woman dressed in red, who seemed nearly three times his size.
+
+            Alaan looselock: 
+                
+                [After being approached]
+                    (talking to the Half-Elf woman) "S-so anywaysh, me and the team are up in Ashlims Citadel. Baelor and Vaan are out cold and *hic* Villysh 
+                    misshing", The halfling notices the adventurers and cuts his story short. "My apologies sweetheart, it seems i have business." The half 
+                    elf woman leans in and whispers into his ear, kisses him on the cheek then leaves. 
+
+                    "Ah, your with villy arent ya? troubling news about yer guild aye ladsh? troubling indeed.", he turns to the bar to finish his drink. 
+                    "Villy tellsh me that sticky witch has taken some important things from her. thingsh *hic* she needs returned for the sake of her guild.
+                    I CAN help. but first i need you to help me.".
+
+                    The old halfling goes silent for a moment, pondering or perhaps recalling an event that happened long past. "Its my brother, i need his body."
+
+                    The greying thief tells the party about the time he went on a heist with his brother Rada many years ago, that involved going into the Catacombs under the city.
+                    while making their escape, they were attacked by ghastly creatures. Alaan managed to escape but his brother never did.
+
+                    "I've never gone down into the Catacombs since... (he sighs) find my brother, please, so that I may finally put him to rest. I'll even pay yee fer
+                    the trouble."
+
+                    he hands the party a pale blue orb. "This is enchanted to find our clans badge, it'll grow warm when your close to...", he pauses for a moment then sighs, "to
+                    his body."
+
+                    DC - persuasion: 
+
+                        20 - Alaan agrees to come without completion of the sidequest, allows for completion on another day.
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 2gp for each party member if they take up his request
+
+Act 3: Serafias Stowaway
+
+    Crowds buzz in a jolly mood outside Serafias Store, the various aromas from the different restaraunts on the bridge makes the mouth
+    of the party members that enter the store water.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Serafia: 
+                - (in a melocholly tone) "well if it isnt my favorite champions.", she walks over to vollert and peers at him through her large spectacles that
+                seemingly magnify the size of her eyes and smiles, "Im glad to see youre all in one piece. A little yellow bird told me that youve decided to join
+                DragonWatch, that fills me with so much joy! oh Vilsara was in need of a fresh pair of muscle to help the guild". Her excitement quickly dwindles, and 
+                you can see sadness building behind her oversized spectacles.
+
+                *2 thugs enter the store, look around briefly, then rush out*
+                
+                [before the party leaves]
+                "Wait! Theres a woman here, one who needs your help! Please! Come with me.". She takes the party to the back of the store, and down some stairs to a hidden
+                room under the staircase. The room is adorned with a small window that overlooks the river that runs under the bridge, a light breeze blows through the 
+                curtain and a on the bed in the middle of the room sat a young bald orange tiefling woman covered in bandages, the woman sat upright with a sudden shock 
+                when she heard the door open, almost as if to flee. She had a single green eye and her other eye was greyed out, she was also missing several fingers on 
+                both hands and a leg. Her eyes seemed baggy, as if she had not slept and had been weeping.
+
+                Serafia moved slowly toward the girl, then sat beside her and gently stroked her hand. "Her name is Lunara. That spineless no good witch and her cretins from Midnight Sun
+                did this to her. DEXTRA! There arent enough magics in the realm to protect you from what im going to do you!", the old woman took a breath to try and fight back the tears 
+                that was building in her eyes and regain her composure. "The barbarians cut off her tongue so she couldnt talk... cut off her fingers so she couldnt weave magics... cut off
+                her legs so she couldnt run... they defiled her... did things to that would make bhaal himself proud". The old woman spat on the floor.
+
+                "Please, escort the child back to DragonWatch. Vilsara must know whats become of her daughter. Dextra has men looking for her. be careful. Also, im afraid one of you wll have
+                to carry her"
+
+                * Note: Person carrying has disadvantage on attack rolls *
+                
+        
+        Encounter:
+            Bridge:
+                2x Cult Fanatic
+                2x Bandits 
+
+            GodFell:
+                1x Veteran
+
+        Requirements: 
+            - Escort Lunara back to Dragonwatch
+
+        Rewards:
+            - 2gp per member
+            - 2x scroll coupons
+
+
+Act 3.1: The dragon and the demon
+
+    The doors of Dragonwatch burst open as the party quickly rushes Lunara to the guildmaster
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - (Excitedly rushes down the stairs) "Oh how wonderfuld, I had sensed that one of my daughters have finally returned! Lunara im so happ-", The Old
+                    wizards words trailed off when her eyes met the new form of the tiefling that had onced called herself a champion of DragonWatch. The little yellow 
+                    bird sitting by the window was startled when the fires around the room seethed and sparked and burned a sudden and prolonged white hot color, as if heat of 
+                    the nine hells itself was seaping up from the floor boards. 
+
+                    The old womans fingers twitched subtly, as if something within her had finally snapped. she slowly approached the limp tiefling, and placed a gentle hand on her cheek.
+                    "Itova ir, everything will be okay. Every scar that that scaleless bruha has placed you will be returned to her ten fold.", She waved her fingers as weaving some unseen thread
+                    and whispered a few words. a doorway appeared around the tiefling, and then she had disappeared through it. "I'll send for Vasha, he may be able to restore her... in time...".
+                    The old woman wiped away a tear.
+
+                    "So it seems the warlock seeks a most painful and prolonged death", she sighs, "Itova Iri, find the rest of the companions for this task. there are scrolls on the table, they should help.
+                    I feel that i must rest for a bit..."
+                
+        
+        Encounter:
+            Bridge:
+                2x Cult Fanatic
+                2x Bandits 
+
+            GodFell:
+                1x Veteran
+
+        Requirements: 
+            - Escort Lunara back to Dragonwatch
+
+        Rewards:
+            - 2gp per member
+            - 2x scroll coupons
+
+Act 4: Gendricks Tournament
+
+    Crowds gather and cheer at the stadium in the evening, eagerly awaiting the gory and brutal battles of tonights Tournament of champions.
+    The Tournament of champions is held every year during Necros, and features Roxarra and her family as the running champions for the last 6 years.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Roxarra: 
+                [After being approached]
+                    "Ah! your the wyrmlings from Dragonwatch eh? you dont seem that special to me", the tall fit orc woman
+                    lets out a bolsterous laugh, "Ah wyrmlings, i crack myself up.", she puts her hands on her hips, "While i'd love to go with you 
+                    and stick one to Dex, First i need some proof that you lot are as capable as you say", the orc woman starts using the morningstar
+                    that shes holding to scratch a sudden itch on her head, Then her eyes grow big from a sudden realizations. "I know! you can enter
+                    the Tournament! if you perform well, ill join you pipsqueaks on your adventure!". she laughs bolsterously, "Ah! if you managed to beat
+                    us, ill even consider joining DragonWatch".
+
+
+                DC - persuasion/Intimidation: 
+
+                    25 - She comes with the party, without having to perform in the Tournament.            
+
+        Requirements: 
+            - finish Dialog with Roxarra and the complete Gendricks Tournament
+
+        Rewards:
+            - 5gp each for winning (else 2gp runner up)
+            - 1x scroll coupon
+
+Act 5: The Plan at DragonWatch
+
+    
+    Sounds of rain hitting the glass panels of the window starts to build up as everyone is gathered in the common room, the air
+    grows cold and the sounds of thunder can be heard in the distance. Around the room sits the current members of Dragonwatch and
+    a few guests. Vilsara Stands by the window next to the yellow bird on its perch, she stares at the rain clouds silently, lost in thought.
+    Raya and Roxara sitting on the couch and eagerly Listening to Alaan regail a tale about the time Vilsara locked lips with king Trigons father
+    at his wedding ceremony. Lunara sat silently cross legged on the floor near the fireplace gently stroking the head of the panther 
+    laying next to her.
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+
+            Alaan: 
+
+                - [Gingerly] "Aye! sho villy kisses Trigons father, mind you this is years before he was born, on his wedding day, and at the 
+                    ceremony, and in front of the Queen no less!" The silver dragonborn and the orc women both gasped in unison and turn to look
+                    at the silver haired woman silently standing by the window in disbelief.
+
+            Vilsara:
+
+                (As the players step into the room)
+                - [Not noticeing Alaans story] Still staring outside, she says alloud "It seems our champions have returned, welcome back Itova
+                    iri, I have much to thank you for. For bringing back my daughter. and soon for returning to me my guild". The old woman pauses
+                    for a moment, then turns to face the room. "Itova Iri, it is time to tell you the next step".
+                    
+                Vilsara goes on to tell the party that breaking into the vault under Midnight Sun will first require 2 sets of keys. 
+
+                The First Key must be stolen from the Midnight Sun Jailer, during the day, before the heist begins.
+
+                The Second Must be stolen from Dextras Quarters within the HQ above and it will unlock the jail/torture chamber.
+
+                then you must find The Guildmaster of Midnight Sun, Festus ~ whose been missing for many months who will be needed to unlock the vault.
+
+                Roxarra will help you get around Midnight Sun when youve infiltrated it. And will clear out the vault after youve broken into it.
+
+                Alaan will help break into the Vault once its located and the dungeon seems safe.
+
+                Lunara describes the vault as well as other features to look out for. 
+                she tells you to look out for the jailer during the festival.
+                She tells you that their have been strange creatures lurking under the dark guild.
+
+                Jailer: Imis: Female Elf Fighter, Evil. Imis has cropped copper hair and bright amber eyes. 
+                She wears chain mail and wields a short sword. Imis is thoughtful and guarded. She Frequents Godfell bridge.
+
+        Requirements: 
+            - finish Dialog with Vilsara
+
+        Rewards:
+            - 
+
+Act 6: Daylight Robbery
+
+    The sun shines brightly with some large clouds floating in the air, large crowds walk to and from the godfell town across the bridge.
+    The aromas of various pop up food stalls waft through the area as the players make their way accross the bridge.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Emir: 
+
+                Emir wears the key to Midnight suns Jail around her neck. she is a Female Elf Fighter, and Evil. Shes loud and bolsterous
+                and enjoys avoiding the consequences of her actions.
+
+                - if incapacitated through violent means, her friends/followers around the bridge attack and security around Midnight Sun is 
+                    heightened on the night of the heist.
+
+                - Stealing from her and getting caught results in extra security within Midnight Sun
+
+                - incapacitating her here removes her from the dungeon
+
+                - failing to incapacitate her results in her being in the dungeon and looking for her keys.
+
+                - failing to steal or incapacitate her results in her being in the dungeon with more enemies
+
+                She spends the day Frequenting many stalls and shops on the Bridge.
+
+                shops Frequented:
+
+                    - 2x food stalls
+
+                        Emir frequents a local stall for her meals. and another stall for deserts.
+
+                    - 1x gear store
+
+                        She visits the local gear stall to maintain her gear.
+
+                    - 1x shady Character
+
+                        She speaks to a shady Character near Godfell gates
+
+                    - 1x bridge edge
+
+                        She peers over the bridge and examines the water for a while
+
+                    - 1x Serafias Scroll Shop
+
+                        She stops by Serafias scrolls.
+
+
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - Steal the Keys from Emir.
+
+            
+
+        Rewards:
+            - Jailers Key
+            - 200xp
+
+Act 7: Distraction at Lake GodFell!
+
+    
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Vilsara: 
+                - 
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
+
+Act 8: Beneath the Midnight Sun
+
+    The players make their way into the Catacombs under godfell, led by Alaan, he leads the party down what seems like a maze of 
+    narrow passages and life threatening obstacles and eventually arrives at gate barred by some boulders. With little effort, alaan
+    unlocks the lock on the large gate and signals the party to help him move the boulders.
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+            Alaan: 
+                - (Calmy)"Aye, I'll leave you lot here for now. my old bones might not be able to keep up in combat if it comes down to it.
+                when youre sure the area is clear, signal for me and ill come unlock that safe."
+                
+        Dungeon:
+
+            Other enemies:
+
+                CR1:
+
+                CR2:
+
+
+            1:
+                You push the large boulders aside and climb through, and find yourselves in a large corridor. The corridor is lit by rows of 
+                sconses on the dungeon walls and seems to lead to a wider area.
+
+            2:
+                You find yourselves in a large circular room with a square tiled surface in the middle. The tiles seem to have 
+                5 rose like symbols spread out in a cross. the east is a wall with an Iron gate, the south east corner seems to lead into a
+                passageway aswell as the southwest corner and The east wall.
+
+                Puzzles:
+                    - In the center of the room lies the entrance to the vault, to enter you require the blood of the Guildmaster located in
+                        the prison as well as the vault key located in Dextras room
+
+                Ability Checks:
+                    
+                    Perception:
+
+                        17 - players will find an indentation on the north wall leading to a secret passage.
+
+                    
+
+            3:
+
+                players find themselves in a Pantry filled with barrels and crates of various guild supplies.
+
+                Encounter: [Easy]
+                    1x Drow scout
+                    1x thug
+
+            4: 
+
+                players find themselves in a lodging room fully occupied with enemies. the enemies seemm to be slightly experienced and getting ready for guard duty.
+
+                Encounter: [Medium]
+                    2x Thugs
+                    1x Drow scout
+
+                Rewards:
+                    - prison key
+                    - 50gp each
+
+            5.
+
+                 players find themselves in a lodging room fully occupied with enemies. the enemies seem to be new recruits.
+
+                Encounter: 
+
+                    2x Apprentice wizards
+                    1x Spy
+
+                Rewards:
+
+                    - 25gp
+
+
+
+            6.
+
+                the secret room is full of kidnapped npcs kept in a sleeping state from a spell, the npcs are of all shapes and sizes
+                but mostly women.
+                
+
+            7.
+
+                the ground floor seems abuzz with activity, many guild members as well as guests seems to be on this floor.
+
+                1. the basement entrance/Bathroom:
+
+                    the basement 
+
+                        Dialog:
+
+                            Roxarra: 
+
+                                - [Confidently] "Ah, there you are Dragonlings! for a moment I thought you were lost down there, did you manage to 
+                                find Festus? ive asked around the guild about him, word is he hasnt been seen for months... that alone is not that unusual, Festus is 
+                                known to disappear every now and then, part of the job of a guildmaster of a spy guild such as this, but theres more...", she looks
+                                on as if seemingly looking passed the door. "It seems that there are some guild members Loyal to Dextra, but not all of them.... A good
+                                number of the senior guild members suspect foul play, that Dex has kidnapped the old fool" 
+
+                                Roxarra looks down the stairs worriedly, "Some of the members tell me that there are strange things going on under the guild, strange noises
+                                and strange smells... some say that on silent nights they can hear the wimper of children, some say ghosts haunt these walls."
+
+                                she sighs, "most of the guild members like me, but i cant get them to talk much further. maybe you lot will have better luck? coaxing more info
+                                from the seniors of the guild, I know some of them and can give you the details you need to know about them. were going to need atleast one of them
+                                to invite us upstairs so we can get passed the guards."
+
+                                she looks seriously at the party, "Look, I know you all want to stick it to Dextra bad, but the majority of folks in this guild want nothing
+                                to do with her, and the ones that do stand up to her disappear. try to keep it quiet while were up here, yeah? besides theres dozens of guild members hear tonight and
+                                only 4 of us. Thats a fight even IM not confident we can walk away from."
+
+                                
+
+                                    details:
+
+                                        1. Suse:
+
+                                            - Female Human Ranger
+                                            - Chaotic Evil
+                                            - has straight blonde hair and bright grey eyes. 
+                                            - She wears studded leather and wields a rapier and shield. 
+                                            - Suse has a horned owl named Cece.
+
+                                            "Reminds me of Dextra a little that one. her moods are all over the place and she can be down right unpredictable.
+                                            she likes being challenged that one, not so much losing. Also I hear shes into woman"
+
+                                        2. Core: 
+                                        
+                                            - Male Elf Craftsman
+                                            - Neutral Good
+                                            - Core has short blonde hair and light blue eyes. 
+                                            - He wears travel-stained clothing and a wooden holy symbol. 
+                                            - Core is suspicious and lustful.
+
+                                            "Core is the guilds master Craftsman, he does most of the designs for specs for the guilds complex machinery,
+                                            I suspect he might have some insight into on the Vault, but hes a suspicious one, very paranoid... Hes also a massive 
+                                            flirt, not sure theirs a living thing he wont try to get with. That said, hes still good people."
+
+                                        3. Amanada:
+
+                                            - Female Tiefling Professional
+                                            - Lawful Neutral
+                                            - Amanada has blood red skin, with blonde hair and black eyes. 
+                                            - She wears tailored clothing and an amulet of luminous crystal. 
+                                            - Amanada was raised by cultists of the Final Tyrant.
+
+                                            "I remember when they rescued that one from a group of cultists years ago, Festus took her in personally and raised her as his own.
+                                            their isnt a command or order that she wont follow without question. I wonder if she even misses the old fool..."
+
+                                        4. Gulla:
+
+                                            - Female Dwarf Sorcerer
+                                            - Neutral Evil
+                                            - Gulla has thin blonde hair and soft hazel eyes, and a thin nose. 
+                                            - She wears sturdy clothing and wields a quarterstaff and darts. 
+                                            - Gulla seeks to become an instructor at the Academy of Eldritch Study.
+
+                                            "Gulla is a quiet one, though ive heard whispers of her... horrid experiments. Odd rituals and strange monsters seem
+                                            to be about whenever shes involved with something. not sure what to make of her personally but im told that Dextra holds the Dwarf
+                                            in very high regard"
+
+                                        5. Alrith: 
+
+                                            - Male Human Rogue, 
+                                            - Neutral Good.
+                                            - Alrith has auburn hair and large brown eyes.
+                                            - He wears leather armor and wields a shortsword. 
+                                            - Alrith has an animal companion, a dire rat named Houneue.
+
+                                            "Alys one of the oldest members of this place, and one of few to openly stand up to Dex. Hes good people, a little grey but the man 
+                                            can still throw a punch, let me tell you". Roxarra rubs her jaw and looks off into the distance as if thinking fondly of an old memory.
+
+                                            "He used to be one of Alaans pages back in the day, and probably the only person here i actually trust a little."
+
+                                        6. Ningal: 
+                                        
+                                            - Female Dragonborn Soldier
+                                            - Neutral 
+                                            - Ningal has green scales and blue eyes, and wears glasses with bronze rims.
+                                            - She wears studded leather and wields a greataxe.
+                                            - Ningal seeks to free herself from an ancient curse.
+
+                                            "Dont know much about that one, mostly cos ive never really seen her. From what ive heard, she mostly just keeps to her room"
+
+                                        
+
+                2. main lobby
+
+                    The main lobby seems to have much foot traffic tonight, there are far too many people and too much activity for anyone to notice the 3
+                    disguised party members. The sound of laughter and music can be heard in the west, loud noises and the sound of people barking orders followed
+                    by the smell of fantastic aromas come from the northeast room, and a set of spiral staircases sits in the middle, guarded by an extremely large orc in
+                    heavy armor.
+
+                    Dialog:
+                    
+                        Roxarra: 
+
+                                - [Confidently] "You see that orc over there?", she points to the giant orc standing near the staircase. Roxarra was easily
+                                twice the size of a normal man, but even she seemed miniscule next to the giant orc. "Thats Lok, back before me, he used to be the
+                                champion of the colliseum. I heard stories about that one. brutal stories. he wont let anyone upstairs without the express permission of
+                                any of the guild seniors. try anything funny with HIM, and i doubt even the combined strength of Vilsara and Vasha could put you back together."
+
+                                She points at the entrance to the guild, "That crazy blond bitch over there is suse, careful of her, ive seen nail men to walls for just
+                                looking at her, shes unpredictable and always looking for trouble."
+
+                        Suse: (When approached)
+
+                            - [Excitedly] "Ha Haa! i havent seen you lot in here yet, that some fine costumes you have on", she reaches over to touch the mask of the closest
+                            player and whispers. "I can see you staring under that mask, the last person to do that had both their eyes fed to Cece", she draws her dagger.
+
+                            Roxara whispers, "Cece is her creapy pet owl."
+
+                            Roxarra/Alrith will step in to stop a fight from occuring and lead the party to the entertainment area.
+
+                3. Kitchen
+
+                    The doors leading to the kitchen seem to have steam creeping out of it, along with many pleasant smelling aromas.
+
+                    as the party enters the kitchen, they are immediately hit with a wall of hot steam, as it clears, you see the kitchen is abuzz with activity.
+                    The kitchen is filled with many aromas, Honeyed pork ribs, beef and vegetable stew and the sweet aromas of various cakes and deserts. its very rowdy with the sound
+                    of chefs barking orders as waiters bustle in and out of the kitchen.
+
+                    Dialog:
+
+                            Amanada: 
+
+                                - [Quietly] "You clearly do not belong here, what are you lot doing here? the entertainment section is down the main hall"
+                                Amanada looks preoccupied with overseeing the kitchen tonight, "If you need something, im affraid ive not the time to help,
+                                i have orders to follow. unless you intend on assisting us with the feast, i suggest you leave or stay out of our way."
+
+                    activity:
+
+                        Help Amanada and the chefs prepare the feast.
+
+                        1. chop vegetables
+
+                            DC - 10
+
+                        2. butcher meat
+
+                            encounter (beast, medium)
+
+                        3. wash dishes
+
+                            DC - 10
+
+                4. Lounge/Dining room    
+
+                    The lounge is bustling with activity, loud tavern music is being played on the stage to the south as various guildmembers and there guests can be seen
+                    eating at the tables. some of the patrons run up to Roxarra, begging for her autograph, she abliges and then waves them off. the air in here is thick with 
+                    aromas of food and pipe smoke.
+
+                     Dialog:
+
+                            Roxarra: 
+
+                                - [Quietly] "That man with the red hair smoking pipe at the back of the room, Thats Alrith", she points over to the corner off
+                                the room filled with lounge seats, over at an elf with blond hair and sighs, "and that pretty noy bastard over there is core, make
+                                sure that one keeps his hands to himself, he can get a little... friendly."
+
+                            Alrith:
+
+                                - [Confidently] "Ah, so vilsaras champions make their appearance finally, i had wondered when youd show. Now Now, dont look so suprised that I
+                                recognise you, you may be able to fool these people but my followers have keener senses", he pets a large rat that had suddenly appeared on his
+                                shoulder. "It was not so hard to know youd make your way here, especially after the foolishness you lot pulled with emir today", he sighs. "it would 
+                                seem that my old master no longer cares for teaching his students lessens in tact. And that dumbfounded look you have tells me youve yet to find the vault."
+
+                                Alrith can be convinced to help the party with a simple speech check. he will tell the party that they might find a skeleton key to the guild in the
+                                the guild masters quarters.
+
+                                he will tell the party that he suspects that Dextra has big plans tonight but hes not sure why shes ordered the guild to stay out of the city tonight.
+                            
+                            Core:
+
+                                - [flirtily] "Well hello YOU, Roxy, you never told me you kept the company of such FINE looking individuals"
+
+
+            8.
+
+                The second floor is much quieter, theres no one on this floor at this time, save for some loud snoring from one of the rooms.
+
+                1. Dextras room
+
+                2. 
+
+                3.
+
+                4. 
+
+                5.
+
+                6.
+
+                7.
+
+            9.
+
+
+            10.
+
+               
+
+            
+
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - find and enter the vault
+
+        Rewards:
+            - 400xp
+
+Act 8.1: The Prison
+
+    The Prison has a foul stench coming from it, as the party enters, the eerie feeling that something isnt right starts
+    to loom in the air. A faint buzzing sound can be heard but from no discernable direction. As you walk through the prison,
+    you notice that there is an absurd amount of blood and strange symbols covering the walls. the stench smells of rotting meat, 
+    and grows fouler the further you go. there is an abundance of maggots that swarm around the floor.
+
+    Encounters:
+
+        Assuming party level 3
+
+        [Easy]
+
+            5-7 Neogi Hatchling (CR 1/8)
+            3-4 Star spawn gru (CR 1/4)
+            2 gazers (CR 1/2)
+
+        [Medium]
+
+            8-10 Neogi Hatchling (CR 1/8)
+            5-6 Star spawn gru (CR 1/4)
+            3 gazers (CR 1/2)
+            2 Choker || Core Spawn Crawler || Psurlon Ringer (CR 1)
+            1 Gibbering Mouther || Psurlon (CR 2)
+
+    Room:
+
+        1:
+
+            You find yourselves at the bottom of the staircase, and before you is a dark hallway, just barely bright enough to see clearly.
+
+
+            Approaching room 2:
+
+                The sound of children laughing can be heard coming from room 2, the sounds are faint, but the distinct high pitched sound
+                of a childs laughter is hard to miss. Briefly the laughter turns to loud screaming and pleading for help and mercy and then turns to silence.
+                After a few moments, laughter can be heard once more followed by silence.
+
+            Approaching room 4:
+
+                The stench grows stronger as you walk passed/approach the doorway, various sounds echoing the screams and despair of people and 
+                the unattural bellows of some unseen creatures can be vaguely heard as well.
+
+        2: 
+            This medium sized room is filled shelves and cupboards as well as manequins that seem to hold a handful of corroded suits of armor.
+
+            Apart from the dust and cobwebs, it seems to be relatively clean.
+
+            Encounter:
+
+                [easy]
+
+                    2 creatures can be seen patrolling the room one orange-red in color and the other a pure emerald green, 
+                    the creatures seem to look like small floating imperfect balls with several stalks protruding from their heads. 
+                    The stalks have eyes attached at the ends of them, each of which scan the room in different directions.
+
+                    (unless stealthed and hidden, the creatures notice the party immediately and attack)
+
+                    Creatures:
+
+                        2x gazers
+
+                Rewards:
+                    - None
+
+            DC challenges:
+
+                Cupboards - west wall (Perception DC - 15):
+
+                    You notice a fake panel at the back of the cupboard, upon opening it you nottice 2 bottles containing a crimson liquid.
+                    An Arcane (DC 10) reveals that the bottles contain alchemist fire.
+
+                    Rewards:
+
+                        - 2x alchemist fire
+
+                Locked Cupboard - North Wall (Strength DC - 12)
+
+                    The hardwood cabinet buckles under the enormous force put upon it, the doors explode in a light hail of debris.
+
+                    Rewards:
+
+                        - 50gp
+                        - 1x potion of healing
+
+                Locked Door - South East Wall (Strength DC 19)
+
+                    The bursts open, finaly giving in to the pressure
+
+                    Rewards:
+
+                        - Unlocked room 3
+
+            Loot:
+
+                - Checking the cupboard on the east wall yields a single potion of healing
+
+            Approaching room 3:
+
+                You stand before a locked door that seems to be reinforced. (any attempt to open it without the key found in )
+
+        3:
+            (unlocking requires a crimson key or DC check)
+            The room seems to be full of clutter and various old unusable weapons and armor. all covered in rust (or perhaps blood?).
+            At the end of the room sits 3 ornate chests, on the left is a wooden chest covered in dried blood and inlaid tiny jewels.
+            in the middle sits a chest made with silver bearings, It seems to be untouched by dust or grime. and On the right sits 
+            a plain wooden chest, covered in dust.
+
+            as you enter, the buzzing sound seems to grow a little more.
+
+            DC challenges:
+
+                Bloody chest:
+
+                    Investigation (DC - 12):
+
+                        Reveals that the chest has some kind of trap
+
+                    Survival (DC - 12)
+
+                        Reveals that the blood contains traces of Poison.
+
+                    Sleight of Hand (DC - 14)
+
+                        Attempts to disarm the chest trap.
+
+                        Fail:
+
+                            - The trap is set off
+
+                    Trap:
+
+                        the chest fires a volley of tiny darts in a 5 foot radius originating from the chest, 
+                        players hit by it must take 1d4 piercing damage and are poisoned for 1 hour / 3 rounds 
+                        of the next battle. (Alternatively check the Contact/Injury poisons for alternate effects)
+
+                    Rewards:
+
+                        - 1x +1 weapon (Roll for the weapon)
+
+                Silver chest:
+
+                    To disarm the trap, you need the magical inscription found on one of the bodies in room 11.
+
+                    Perception (DC - 12):
+
+                        reveals the chest to be covered in several tiny runes.
+
+                    Arcana (DC - 10)
+
+                        reveals that the chest has a magical trap
+
+                    Trap:
+
+                        the trap fires a concoction of Alchemist fire in a 15 foot cone
+
+                        Disarm:
+
+                            Speak the words "Ul'wuth Dar"
+
+                    Rewards:
+
+                        - 1x +2 weapon (roll for the weapon)
+                        - 1x Alchemist fire if the trap is disarmed
+
+                Plain chest:
+                
+                    Investigation (DC - 15):
+
+                        reveals a hidden compartment with 200gp and 2x potion of healing.
+
+                    Rewards:
+
+                        - 10gp
+
+        4:
+
+        5:
+
+        6:
+
+        7:
+
+        8: 
+
+            The trails of blood lead you to a row of jail cells, its much too dark to see into the cells from the outside, but the sound of scratching and chittering
+            can be heard coming from a few of them. the buzzing noise you heard earlier starts to grow slightly and the smell of rotting corpses fills the air. its enough
+            to make the player characters gag and there is an increased presence of maggots and flies.
+
+        9:
+
+            The concrete man, believes he will live forever, believes hes slowly turning to stone.  (SCP-014)
+
+
+        10:
+
+            The room is filled with piles and piles of corpses
+
+        11:
+
+        12:
+
+
+
+Act 9: The Vault
+
+    The Square shaped column of tiles begin to move downward, at first slowly but gradually faster and faster until it comes to an abrupt halt.
+    the air at the base of the moving column is thick and humid with not a light in sight. the room around the party is pitch black. Suddenly a sconce
+    flares up revealing a wall at the end of a room, then another, then another. revealing a large circular structure filled with gold and jewels that
+    shimmered under the light of the lit sconses. at the end of the room sat 5 pedestals, with a bracelet sitting neatly in the middle of each of them.
+
+    the faint buzzing sound once heard in the prison now grows louder with each passing moment, till the buzzing becomes deafening and then, maddening.
+    each player begins to feel light headed and loses balance as they fall unconcious.
+
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Dialog:
+
+            The Dream:
+
+                You each share a Dream, and find yourselves drifting amongst an earthless sky, endlessly. wherever this place is, time passes very differently
+                here, with the sun rising and setting every few moments. the wind blows hard and cool, at some moments giving your formless bodies respite and others
+                invoking the feeling of your skin being flayed by the harsh friction of the unatural wind, Friction that grows hot, heating the air around you till
+                everything catches flame, flame that warms the soul, feeding it, engorging it. you feel the flames burning all that you are to cinder, burning away everything
+                that is and leaving naught but ash. Ash builds and settles, moats of dust form and take the shape of gargantuan mountains of indescribable beauty, baron
+                and void of all life. Rivers begin to flow from the mountains, first a small trickle that cut through the rock like a blade through flesh. At nought but trickles,
+                the river soon grew into an ocean that engulfed everything that was, and where there was baron land now stood the infinite depth of the abyss below the endless
+                waters. From the depths, came a form that took shape. A form harsher than all the winds, hotter than the primordial flames, a thousand fold larger 
+                than the greatest mountains and more terrifying than the endless depths of an infinite ocean. its tendrils of pure darkness engulf you, and pull you below till
+                naught is seen but the void of nothingness.
+
+                suddenly, there was light. bright enough to empregnate the nothingness. blinding. inspiring. warming. cooling. the bright platinum light fills you, becomes you.
+                
+                A little girl stands on the bridge of godfell, she holds the hands of both her parents, excited to watch the festivities begin. The light flashes, showing 
+                an image of a young fox, playing in a field. another flash. the girl is older now, a teenager, shes practicing incantations from a book and learning spells.
+                the light flashes. The fox can be seen hunting small animals in the wild. Another flash. The young woman is unpacking her bags in a small room in midnight sun with 
+                several other young people. another flash. The fox sleeps in a den surrounded by cubs. Flash. The woman seems to be sitting in a circle, attempting a ritual. Flash.
+                The fox is attacked by a black dire wolf. its flung against a tree and its neck is broken, the wolf stands over it and coughs up a mass of rotting flesh and maggots.
+                Flash. The foxes body lies dead and decaying, its lively body now a home to countless horrors. the flashes stop and you each hear a familiar voice calling out to you.
+
+            Alaan:
+
+                [Desperately waking up the party] "Wake up! I say wake up you heavy footed foul giant... ah, finally! you lot are awake! youve been gone nearly an hour! what happened!?"
+
+            Dextra: 
+                
+                (After the players wake up from being knocked out by Alaan)
+                The lights around the room begin to shimmer and slowly fade, as the growing shadows begin to undulate and
+                take shape. growing into a mass that took on the shape of a woman. [In a soft low voice] "So, youve finally found your ssssilly
+                little trinketsss, they'll not be of any use to you here... or anywhere." she looks at Alaan and in a single motion hurls several obsidian
+                daggers at him, seemingly formed from the nothingness that surrounded her. The old halfling managed to expertly dodge the surprise blades, save for
+                one that knicked his cheek. "It is Hubris to think that you can challenge the Elders, whom even the gods fear".
+
+                she produced another obsidian dagger and raised her arm in another motion but at the peak of its motion it stopped. 
+                her eyes grew big and the expression on her face grew from indifference to complete horror. Tears begin to seep from her eyes as
+                her body and her voice began to tremble. "P-please... Please... Please kill me!", the arm with the dagger came crashing down and 
+                pierced her abdomen and thick dark red blood began to form around the lodged blades hilt and she began to cry. "Please! I cannot bear it!
+                The pain is too great!". She stabs herself twice more, the blood from her wounds pooling around where she stands. "IT tortures me! every day
+                it skins me and flays my bones, every day it defiles me for its spawn, for its evil ends!". she stabs several more times, an unattural amount of
+                blood now poor out of her wounds like an open faucet, its crimson hue now lost to a dark black sludge that smelled like rot and decay. "Please...
+                tell my parents... tell my parents...". she threw her head back and screamed out in pain as the bones along her arms and spine begain to buckle and break.
+                the bones under her face begain to shatter and reform, and her visage was now of something completely alien and unatural. tumors now grew all over her skin,
+                and a hole had formed in her other hand, from it protruded a bone. she pulls out the protuding bone to produce a seemingly made of bone and rib.
+
+                Alaan doubled over coughing violently, with each cough he has spat out a assortment of worms and maggots. he looked up at the form that
+                once was Dextra and cried. "What...What have you done to me!?" his coughs rapidly grew more violent and he threw up scores of worms and maggots
+                before falling over backwards. in an instant, worms had began to violently crawl out every orifice on Alaan, any movement the halfling made now
+                was from the wriggling creatures under the skin on his lifeless body.
+
+                the pools of black blood around the creature now begins to rise and take shape, revealing 2 more creatures. both creature resemble that of a large eyeless
+                worm the height of a large man, about 2 metres long. one is clothed in a rich blue robe while the other wears rich purple one. 
+                
+
+        Encounters:
+
+            [Scripted]
+
+                creatures:
+                
+                    1x Dextra (Githyanki star seer)
+
+                Rewards:
+
+                    - None
+
+            [Deadly] 
+
+                Creatures:
+
+                    2x psurlon ringers
+
+                Rewards:
+
+                    - None
+
+                
+
+        Dialog:
+
+            Post Encounter:
+
+                The Alien being that was once the warlock Dextra dropped down, nearly lifeless. tiny ripples start to form under its skin, its body starts
+                breaking and changing once more to reveal a form made up entirely of a countless number of worms. it attacks the nearest player character with 
+                a bolt of 9d10 force damage.
+
+                Suddenly the air at the south corner of the room seems to his and the fabric of space seems to tear at the seems. And through it steps out a heavily injured
+                and limping Vilsara. the silver haired woman held out her arm and whispered an incantation, while producing a small bright gem in her hand. The gem turned to dust
+                and a bolt of bright platinum light leaped from her hands and engulfed the husk of worms standing before her. the body of worms exploded, into a countless number
+                of wriggling pieces, before escaping and burrowing into the dirt and grates below.
+
+            Vilsara:
+
+                "Itova Iri! thank the platinum one you are still safe! the worst as happened! Godfell is under siege! where is Alaan?"
+
+                (After learning of Alaan)
+                Vilsara drops to her knees at whats left of the corpse that once was Alaan, "Old fool, thats what I am for roping you into this.
+                rest easy now my friend. your brother awaits you, and I shant be far behind".
+
+                She takes a deep breath. "Now, each of you pick a bracelet, one that resonates with you. It is time I showed you what it means to be a champion of Dragonwatch."
+
+        Requirements: 
+            - Defeat the creatures in the vault
+
+        Rewards:
+            - 3x Dragonwatch Bracelets
+            - 2000gp each
+            - 1000xp
+
+Act 10: Champions of Dragonwatch
+
+    
+    
+
+    Music:
+        - 
+
+    Map:
+        -
+
+    Act Milestones:
+
+        Encounters:
+            [Easy]
+
+
+
+                
+        Actions:
+            Drink the liquid:
+                - 
+
+        DC - Investigation: mug of liquid
+
+            10 - 
+
+        DC - medicine: mug of liquid
+
+            15 - 
+
+        Requirements: 
+            - finish Dialog with Alaan
+
+        Rewards:
+            - 
