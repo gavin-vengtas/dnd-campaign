@@ -216,7 +216,6 @@ Act 3: Serafias Stowaway
             - 2gp per member
             - 2x scroll coupons
 
-
 Act 3.1: The dragon and the demon
 
     The doors of Dragonwatch burst open as the party quickly rushes Lunara to the guildmaster
@@ -1090,6 +1089,88 @@ Act 8.1: The Prison
             can be heard coming from a few of them. the buzzing noise you heard earlier starts to grow slightly and the smell of rotting corpses fills the air. its enough
             to make the player characters gag and there is an increased presence of maggots and flies.
 
+            Approaching 9:
+
+                You hear the soft whimpers of a woman.
+
+            Approaching 10:
+
+                Theirs a putrid stench coming from this room, worse than anything you've smelled thus far. countless maggots crawl out from the entrance.
+
+            Approaching 11:
+
+                You hear the whimpers and crying of children coming from this cell.
+
+            Approaching 12:
+
+                You find locked door decorated in fine ornate steel. the door has 5 colored levers next to it.
+
+                puzzle: (Colors and clatter)
+
+                    Prompt:
+
+                        The levers begin in the upright position, with their handles
+                        pointing straight up towards the ceiling. They can be pulled in
+                        only one direction, downwards in the direction away from the
+                        locked door. Once a lever has been pulled down into the set
+                        position, it cannot manually be moved back to its original
+                        upright position. A character attempting to force the lever
+                        back into position will quickly realize that the levers are not
+                        very strong and will snap before being successfully forced
+                        back into position. A character who insists on forcing the lever
+                        will break it in half with a successful DC 16 Strength check.
+                        The lever can still be used while broken.
+
+                        When all five levers have been pulled into their down
+                        positions, there are two possible outcomes. If the levers were
+                        pulled in the correct order, the locked door will automatically
+                        open. The door will remain open and the levers remain in
+                        their pulled position for one hour, after which the levers reset
+                        and the door closes. If the levers were pulled in an incorrect
+                        order, a trap is triggered. See Appendix A for guidance on trap
+                        types and damage. After the trap has been fired, the levers
+                        reset themselves into their original upright position
+
+                        Each of the levers has a pronounced color painted on its
+                        handle. Each lever also causes a unique sound to play
+                        throughout the room. The table on this page lists the position
+                        of the levers with their handle colors, audible tone, and order
+                        they must be pulled for the correct solution.
+
+                    Hints:
+
+                        Should players be unable to solve this puzzle and if they have
+                        triggered the trap 2 or 3 times, allow them to perform skill
+                        checks of their choice to learn more about the puzzle. The
+                        hints provided by the DM should be based upon what aspect
+                        players are getting stuck on. A few possible hints:
+                        Players should be encouraged to take precise notes
+                        regarding which color levers result in what sounds.
+                        With a successful DC 11 Intelligence (History) or Wisdom
+                        (Survival) check, they realize “primary” refers to the
+                        primary colors, which are red, blue, and yellow.
+                        With a successful DC 10 Intelligence check, they
+                        understand that the phrase “after second” means the same
+                        as “third.”
+
+                        If four levers are placed in their proper positions, a
+                        successful DC 12 Intelligence check reveals that the fifth
+                        and final lever will fit into the only remaining position.
+
+                    Trap:
+
+                        - Thunderclap (DC 10 CON)
+
+                    Solution: 
+
+                        Physical Position   Color  Sound   Correct Order
+
+                            1               Black   Roar        2
+                            2               Yellow  Buzz        3
+                            3               Blue    Lute        5
+                            4               Green   Wind        4
+                            5               Red     Bell        1
+
         9:
 
             You open the door to find a white room, completely void of any filth, blood or maggots. not even a speck of dust. In it sits a woman on a chair.
@@ -1107,6 +1188,15 @@ Act 8.1: The Prison
                     deep crimson red in color. The pustules grow ever more, her body starts to bloat and deform, growing to an enormous, unattural size. blood starts
                     to seep from the pores on her skin that has now expanded and cracked under the pressure of the bloating. within a moment, her body explodes, spraying
                     the room with blood, worms and pieces of the former jailer.
+
+            Loot:
+
+                - room 12 puzzle clue:
+
+                    "The second lever will sound like a roar
+                    A primary first helps open the door
+                    The last lever pulled is the color of sky
+                    After the second will buzz like a fly."
 
         10:
 
@@ -1130,7 +1220,7 @@ Act 8.1: The Prison
 
             DC challenges:
 
-                Boxes:
+                Corpses:
 
                     Investigation (DC - 13)
 
@@ -1142,7 +1232,21 @@ Act 8.1: The Prison
 
         11:
             This room is filled with just a handful of corpses, these ones seem to be relatively fresh, and some seem to bear the symbols of those belonging
-            to midnight sun. the room is otherwise empty.
+            to midnight sun. the room is otherwise empty. You hear the sound of children laughing and turn to see 2 gazers at the southern corners of the room.
+            
+            Encounter:
+
+                [easy]
+
+                    2 creatures can be seen patrolling the room one orange-red in color and the other a pure emerald green, 
+                    the creatures seem to look like small floating imperfect balls with several stalks protruding from their heads. 
+                    The stalks have eyes attached at the ends of them, each of which scan the room in different directions.
+
+                    (unless stealthed and hidden, the creatures notice the party immediately and attack)
+
+                    Creatures:
+
+                        2x gazers
 
             DC challenges:
 
@@ -1156,14 +1260,30 @@ Act 8.1: The Prison
 
                     Rewards:
 
-                        - none
+                        - Note for room 3
 
             loot:
 
-
         12:
 
+            the door unlocks and swings open to reveal a small room. the room is dirty and covered in all manner of blood and faeces, all of it used to draw various
+            symbols across the walls, and at the corner of the room sits an old man. hes sprawled out on the floor and sits with his back against the wall, his eyes have been
+            greyed out, almost as if covered by a fog. The old man is wearing has markings and clothes idicating that he is a very high ranking member of the guild. 
+            His feet have been amputated and he babbles incoherently. hia hands seem to be drawing symbols into his chest, fingers borrowig deep within chest to form runes
+            made from his wounds.
+            
+            You cant make out what he says, save for a few words in common "Dextra... Kyuss, The worm... Atropus, the world born dead... Pandorym, The weapon... 
+            Ragnorra, The corruptor... Xilthor, Will of the void..."
 
+            DC challenges:
+
+                Festus' words:
+
+                    Arcane (DC - 22)
+
+                        You recognise the names to that of the Elder Evils, primordial Evil entities older than even the gods. and rivaling their power.
+
+            Any attempt to interact with Festus results in him being unreponsive to the party.
 
 Act 9: The Vault
 
@@ -1174,13 +1294,6 @@ Act 9: The Vault
 
     the faint buzzing sound once heard in the prison now grows louder with each passing moment, till the buzzing becomes deafening and then, maddening.
     each player begins to feel light headed and loses balance as they fall unconcious.
-
-
-    Music:
-        - 
-
-    Map:
-        -
 
     Act Milestones:
 
@@ -1212,9 +1325,34 @@ Act 9: The Vault
 
                 [Desperately waking up the party] "Wake up! I say wake up you heavy footed foul giant... ah, finally! you lot are awake! youve been gone nearly an hour! what happened!?"
 
+
+            The dragon bracers:
+
+                The dragons introduce themselves to the champions, express that it is the will of Bahamut, Sardior and Tiamat herself that they are bound to the champions of
+                dragonwatch.
+
+                Sun Bracer:
+
+                    Orion, The Traveller. 
+
+                    A vision of a star exploding, leaving a wyrmling in its core.
+
+                Lunar Bracer:
+
+                    Fruhn, Change made life. 
+
+                    A vision of wyrmling Hatching and making its way into the stars.
+
+                Topaz Bracer:
+
+                Emerald Bracer:
+
+                Saphire Bracer:
+
+
             Dextra: 
                 
-                (After the players wake up from being knocked out by Alaan)
+                (After the players pick up the bracers)
                 The lights around the room begin to shimmer and slowly fade, as the growing shadows begin to undulate and
                 take shape. growing into a mass that took on the shape of a woman. [In a soft low voice] "So, youve finally found your ssssilly
                 little trinketsss, they'll not be of any use to you here... or anywhere." she looks at Alaan and in a single motion hurls several obsidian
@@ -1238,8 +1376,7 @@ Act 9: The Vault
                 was from the wriggling creatures under the skin on his lifeless body.
 
                 the pools of black blood around the creature now begins to rise and take shape, revealing 2 more creatures. both creature resemble that of a large eyeless
-                worm the height of a large man, about 2 metres long. one is clothed in a rich blue robe while the other wears rich purple one. 
-                
+                worm the height of a large man, about 2 metres long. one is clothed in a rich blue robe while the other wears rich purple one.                
 
         Encounters:
 
@@ -1263,8 +1400,6 @@ Act 9: The Vault
 
                     - None
 
-                
-
         Dialog:
 
             Post Encounter:
@@ -1286,7 +1421,12 @@ Act 9: The Vault
                 Vilsara drops to her knees at whats left of the corpse that once was Alaan, "Old fool, thats what I am for roping you into this.
                 rest easy now my friend. your brother awaits you, and I shant be far behind".
 
+                (if the party has not put on the bracelets)
                 She takes a deep breath. "Now, each of you pick a bracelet, one that resonates with you. It is time I showed you what it means to be a champion of Dragonwatch."
+
+                Before leaving, she produces are brown liquid similar to the one she gave you when you first met, and tells you to drink it. 
+                    
+                    -Drinking it restores confers all the benefits of a long rest
 
         Requirements: 
             - Defeat the creatures in the vault
@@ -1296,39 +1436,36 @@ Act 9: The Vault
             - 2000gp each
             - 1000xp
 
-Act 10: Champions of Dragonwatch
+Act 10: Champions of Dragonwatch / The Red Night
 
-    
-    
+    Back in GodFell, Chaos has unfolded. A red comet illuminates the sky above, eclipsing the light of even the moon and casting a red light across the town city. 
+    Many different creatures akin to the ones you faced in the jail run amok amongst the streets, dragging and murdering innocent bystanders and festival participants. 
+    and eating their corpses in the middle of the street. You spot people being dragged away, Adults and children being slaughtered and their corpses defiled. 
+    In the distance you spot Raya, Roxarra and the mourbounder defending the area surrounding dragonwatch, the remaining members of midnight sun defend their guild against
+    mighty abominations as well as guild members from GoldFell protecting the ciitizens as best they can. All to no avail, with each creature defeated, another seems to take
+    its place. in a matter of moments, it seems all of godfell is teeming with all manner of abhorrations. Thousands of creatures seem to be crawling accross every visible surface,
+    murdering, maming and destroying all that they can.
 
-    Music:
-        - 
-
-    Map:
-        -
 
     Act Milestones:
 
-        Encounters:
+        Dialog:
+
+            Vilsara:
+
+                [Commandingly] "Champions, call to your dragons. you must defend GodFell at all costs!", she produces a bright red jewel and whispers an incantation, the gem
+                starts to glow, and with a flash, produces wa wave of flamethe spreads out in an expanding circle that expands as far as you can see. every abhorration and ther victims in the immediate
+                vicinity is incinerated the moment the flame touches them. "To the bridge with you! we can defend this place, but you and companions are needed there!"
+
+        Encounter:
+
+            The dragons finally arrive.
+
             [Easy]
 
+            [Medium]
 
-
-                
-        Actions:
-            Drink the liquid:
-                - 
-
-        DC - Investigation: mug of liquid
-
-            10 - 
-
-        DC - medicine: mug of liquid
-
-            15 - 
-
-        Requirements: 
-            - finish Dialog with Alaan
+            [Hard]
 
         Rewards:
-            - 
+            - 1000 exp
