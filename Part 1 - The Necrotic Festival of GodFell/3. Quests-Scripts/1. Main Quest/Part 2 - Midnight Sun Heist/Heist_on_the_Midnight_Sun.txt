@@ -1460,13 +1460,12 @@ Act 10: Champions of Dragonwatch / The Red Night
 
         Encounter:
 
-            The dragons finally arrive.
-
-            [Easy]
-
-            [Medium]
+            The dragons finally arrive at the bridge.
 
             [Hard]
+
+                25x Star spawn gru
+                1x Mind Flayer / Deaths Kiss
 
         Rewards:
             - 1000 exp
