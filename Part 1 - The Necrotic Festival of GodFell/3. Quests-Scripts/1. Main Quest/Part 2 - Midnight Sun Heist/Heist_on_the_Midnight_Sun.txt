@@ -1441,7 +1441,7 @@ Act 10: Champions of Dragonwatch / The Red Night
     Back in GodFell, Chaos has unfolded. A red comet illuminates the sky above, eclipsing the light of even the moon and casting a red light across the town city. 
     Many different creatures akin to the ones you faced in the jail run amok amongst the streets, dragging and murdering innocent bystanders and festival participants. 
     and eating their corpses in the middle of the street. You spot people being dragged away, Adults and children being slaughtered and their corpses defiled. 
-    In the distance you spot Raya, Roxarra and the mourbounder defending the area surrounding dragonwatch, the remaining members of midnight sun defend their guild against
+    In the distance you spot Raya, Roxarra, the urchin Oliver and the mourbounder defending the area surrounding dragonwatch, the remaining members of midnight sun defend their guild against
     mighty abominations as well as guild members from GoldFell protecting the ciitizens as best they can. All to no avail, with each creature defeated, another seems to take
     its place. in a matter of moments, it seems all of godfell is teeming with all manner of abhorrations. Thousands of creatures seem to be crawling accross every visible surface,
     murdering, maming and destroying all that they can.
@@ -1454,8 +1454,9 @@ Act 10: Champions of Dragonwatch / The Red Night
             Vilsara:
 
                 [Commandingly] "Champions, call to your dragons. you must defend GodFell at all costs!", she produces a bright red jewel and whispers an incantation, the gem
-                starts to glow, and with a flash, produces wa wave of flamethe spreads out in an expanding circle that expands as far as you can see. every abhorration and ther victims in the immediate
-                vicinity is incinerated the moment the flame touches them. "To the bridge with you! we can defend this place, but you and companions are needed there!"
+                starts to glow, and with a flash, produces wave of flame tha spreads out in a circle that expands as far as you can see. every abhorration and their victims in the immediate
+                vicinity is incinerated the moment the flame touches them. The Gem she held crumbled, revealing a hand now completely incinerate, its boney fingers fused together under the 
+                will of the flame. "To the bridge with you! we can defend this place, but you and companions are needed there!"
 
         Encounter:
 
@@ -1469,3 +1470,22 @@ Act 10: Champions of Dragonwatch / The Red Night
 
         Rewards:
             - 1000 exp
+
+Finale: 
+
+    First light breaks the darkness on the horizon, as dawn comes to GodFell. No longer did the place stand as a hustling bustling town city, nor a beacon in zamarok.
+    Now it stood as a grave site for the thousands who fell on the red night. the night the dragons returned. Gone was the bridge that once held the many bustling 
+    shops, all of which was burned to Cinders. Gone were the shopkeepers and residents, who fell to the abhorrations and the dragonfire that killed them. Gone are 
+    the resident and visitors, all mamed, tortured, captured or killed. All that stood was what stood before - The Guilds. The lifeblood of the once city.
+
+    
+
+    Dialog:
+
+        Vilsara:
+
+        Raya:
+
+        Oliver:
+
+        Roxarra:
